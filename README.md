@@ -1,1 +1,291 @@
-# enhansome-kurdish
+# Awesome Kurdish with stars
+
+(last updated on 14/07/2025)
+
+**A curated list of awesome resources, tools and scientific papers for Kurdish language technology (and its related varieties)**
+
+Although I do my best to keep this page as comprehensive as possible by including all projects, the list may not include all the fantastic small and big projects regarding Kurdish language processing. Please be kind and notify me by reaching out by email or through our community on [Gitter](https://gitter.im/KurdishNLP/community).
+
+Are you interested in contributing to Kurdish language processing? Check out [this post](https://sinaahmadi.github.io/klpt/about/contributing/) to see how you can do so.
+
+## News 🎉
+
+### 2025
+
+* Exciting news! Parallel and speech corpora now available for Southern Kurdish, Laki Kurdish, Hawrami and Zazaki!
+
+### 2023
+
+* A few datasets are added for automatic speech recognition and Central Kurdish dialect identification and translation
+* A few datasets are added for emotion analysis, summarization and news headline classification
+* Two projects are released for **language identification** of Zaza-Gorani and Kurdish langauges.
+* A benchmark is released for sentiment analysis of Central Kurdish.
+
+## Development
+
+### Resources
+
+#### Language Models
+
+* [Kurdish Llama](https://github.com/Hrazhan/kurdish-llama) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-24 (Fine-tuned Llama model for Sorani)
+
+#### Corpora
+
+* [AsoSoft corpus](https://github.com/AsoSoft/AsoSoft-Text-Corpus) ⭐ 29 | 🐛 1 | 📅 2022-04-01 (Sorani)
+* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
+* [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) ⭐ 10 | 🐛 0 | 📅 2024-02-09 (Sorani)
+* [Kurdish folkloric lyrics corpus](https://github.com/KurdishBLARK/KurdishLyricsCorpus) ⭐ 7 | 🐛 4 | 🌐 HTML | 📅 2023-04-12 (Sorani)
+* [Zaza-Gorani corpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) ⭐ 6 | 🐛 0 | 📅 2022-12-13 (Zazaki and Gorani)
+* [Southern Kurdish and Laki corpora](https://github.com/sinaahmadi/ZazaGoraniCorpus) ⭐ 6 | 🐛 0 | 📅 2022-12-13 (Southern Kurdish and Laki)
+* [Open Super-large Crawled ALMAnaCH coRpus (OSCAR)](https://oscar-corpus.com/) (Sorani and Kurmanji)
+* [Pewan](https://sinaahmadi.github.io/resources/pewan.html) (Sorani and Kurmanji)
+* [Kurdish resources on Clarin](https://vlo.clarin.eu/search;jsessionid=61B467FE3D0D9F9787A01F0BC8E0EEAA?1\&fq=languageCode:code:kmr\&fq=languageCode:code:ckb\&fq=languageCode:code:sdh\&fq=languageCode:code:kur\&fqType=languageCode:or)
+* [University of Bamberg's corpora](https://multicast.aspra.uni-bamberg.de/resources/#kurdish) \[Kurmanji & Laki]
+
+#### Parallel corpora
+
+* [FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores) ⚠️ Archived (Sorani)
+* [AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) ⭐ 23 | 🐛 1 | 📅 2022-06-24 (Sorani)
+* [Ahmadi et al's corpus](https://github.com/KurdishBLARK/InterdialectCorpus) ⭐ 18 | 🐛 0 | 📅 2020-10-06 containing English-Kurmanji-Sorani aligned texts
+* [CORDI](https://github.com/sinaahmadi/CORDI/tree/main/MT) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)
+* [PARME](https://github.com/DOLMA-NLP/PARME) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-08-28 (Hawrami, Zazaki, Southern Kurdish, Laki Kurdish)
+* [Tanzil](http://opus.nlpl.eu/Tanzil.php): one Qoran translation alignable with many other translations in other languages, including 11 in English (see [this project](https://github.com/sinaahmadi/KurdishMT) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-03-21)
+* A [parallel corpus](https://github.com/mihemmed/Kurdish-Machine-Translation-Project-KMTP-) ⭐ 7 | 🐛 1 | 📅 2021-06-04 of Sorani-English text
+* [bitext-mining](https://github.com/DOLMA-NLP/bitext-mining) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-28 (Hawrami, Southern Kurdish, Laki Kurdish)
+* [Ataman's Bianet corpus](http://opus.nlpl.eu/Bianet.php) containing Turkish-English-Kurmanji aligned texts
+* Bible translations in [Kurmanji-Latin](http://ibtrussia.org/en/projects?id=KKD) and [Kurmanji-Cyrillic](http://ibtrussia.org/en/media?id=KKD/cyrl\&panel=text)
+* [TED Talks subtitles](https://production-blue.amara.org/en/)
+* [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic)) (*not free*)
+
+#### Dictionaries, terminologies and ontologies
+
+Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
+
+* [Kurdish annotated lexicon](https://github.com/sinaahmadi/KurdishHunspell/blob/main/ckb/ckb-Arab.dic) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-01-05 (Sorani)
+* [Kurdish lexicographical resources in Ontolex-Lemon](https://github.com/sinaahmadi/KurdishLexicography) ⭐ 4 | 🐛 0 | 📅 2021-07-08 (Sorani, Kurmanji, Gorani and Southern Kurdish)
+* [Kurdî Wikibase](https://kurdi.wikibase.cloud) (Sorani, Kurmanji, Gorani and Southern Kurdish)
+* Check [Dolan Hêriş](https://github.com/dolanskurd?tab=repositories)'s repositories for a list of Kurdish dictionaries and tools to extract words
+* [KurdNet-the Kurdish wordNet](https://sinaahmadi.github.io/resources/kurdnet.html) (Sorani)
+* [Freedict](https://freedict.org/downloads/) word lists (Sorani and Kurmanji)
+* [Translation Initiative for COVID-19](https://tico-19.github.io/terminologies.html) including Sorani and Kurmanji
+* [MyMemory dictionaries](https://mymemory.translated.net/) with an open-access API (Sorani)
+
+#### Datasets
+
+* [profanity language](https://github.com/MohammedSardar/Bive) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-06-03 (Sorani)
+* [A dataset for speech recognition](https://github.com/KurdishBLARK/BD-4SK-ASR) ⭐ 9 | 🐛 0 | 🌐 Perl | 📅 2020-03-28 (Sorani)
+* [Universal dependency](https://github.com/UniversalDependencies/UD_Kurmanji-MG) ⭐ 8 | 🐛 0 | 📅 2026-05-06 (Kurmanji)
+* [A Twitter dataset](https://github.com/ftkurt/kurdish-twitter-data) ⭐ 4 | 🐛 0 | 📅 2020-06-07 (Sorani and Kurmanji)
+* [Datasets for text to Kurdish Sign Language](https://github.com/KurdishBLARK/KurdishSignLanguage) ⭐ 4 | 🐛 0 | 📅 2020-04-13 (Sorani)
+* [Sorani](https://github.com/unimorph/ckb) ⭐ 3 | 🐛 0 | 📅 2023-07-16 and [Kurmanji](https://github.com/unimorph/kmr) ⭐ 2 | 🐛 1 | 📅 2017-08-03 morphological datasets in UniMorph
+* [Dataset of Kurdish poems with meter and form tags](https://github.com/AsoSoft/Vejinbooks-Poem-Dataset) ⭐ 2 | 🐛 0 | 📅 2020-12-29
+* [FakeKurdNews](https://github.com/rania-azad/FakeKurdNews---Fake-Kurdish-News-Dataset) ⭐ 1 | 🐛 0 | 📅 2021-05-26, an annotated dataset for Sorani Kurdish fake news detection
+* [Manchester Database of Kurdish Dialects](http://kratylos.org/~raphael/kurdish/database-of-kurdish-dialects/index.html)
+* [Web Inventory of Transcribed and Translated Talks (WIT3)](https://wit3.fbk.eu/) (Sorani)
+* [Cyberbullying dataset](https://data.mendeley.com/datasets/ck49jyxcbt) (Sorani)
+* [Summarization dataset](https://data.mendeley.com/datasets/gczpg2cnxy) (Sorani)
+* [Sentiment analysis](https://data.mendeley.com/datasets/3yrkswy6ph) (Sorani)
+* [Emotion analysis](https://data.mendeley.com/datasets/dntxt73dm6) (Sorani)
+* [News headline classification](https://data.mendeley.com/datasets/kb7vvkg2th) (Sorani)
+
+### Automatic speech recognition
+
+* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties)
+* [Kurdish spoken dialect recognition using x-vector speaker embedding](https://github.com/ArashAmani/Kurdish-Dialect-Recognition) ⭐ 9 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-10-08 (Northern, Central, Southern Kurdish, Hawrami &    Zazaki)
+* [DOLMA Speech corpora](https://github.com/DOLMA-NLP/asr) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-07-09 (Hawrami, Southern Kurdish, Laki Kurdish & Zazaki)
+* [KASET - Kurmanji and Sorani Kurdish Speech and Transcripts](https://catalog.ldc.upenn.edu/LDC2024S01)
+* [Whisper model on Central Kurdish](https://github.com/Hrazhan/whisper-kurdish)
+
+### Benchmarks
+
+* Morphological analysis:
+  * [KurdishHunspell evaluation datasets](https://github.com/sinaahmadi/KurdishHunspell) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-01-05 (Sorani)
+* Tokenization:
+  * [KurdishTokenization](https://github.com/sinaahmadi/KurdishTokenization) ⭐ 10 | 🐛 0 | 🌐 Lex | 📅 2024-06-22 (Sorani, Kurmanji)
+  * [A sentence-segmented dataset](https://github.com/KurdishBLARK/KTC-Segmented) ⭐ 2 | 🐛 0 | 📅 2020-05-01 (Sorani)
+* Transliteration
+  * [Wergor transliteration datasets](https://github.com/sinaahmadi/wergor) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-05-03
+  * [Evaluation datasets for Kurdish Grapheme-to-Phoneme Conversion systems](https://github.com/AsoSoft/Kurdish-G2P-dataset) ⭐ 4 | 🐛 0 | 📅 2020-12-29 (Sorani)
+* Spelling error correction
+  * [Central-Kurdish-Spelling-dataset](https://github.com/AsoSoft/Central-Kurdish-Spelling-dataset) ⭐ 2 | 🐛 0 | 📅 2021-05-01
+* Sentiment Analyis
+  * [Sentiment Analysis](https://github.com/Hrazhan/sentiment) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-27 (Sorani)
+* Unconventional writing normalization
+  * [Script normalization](https://github.com/sinaahmadi/ScriptNormalization) ⭐ 3 | 🐛 0 | 🌐 PLSQL | 📅 2023-07-09
+
+#### Other resources
+
+##### Word Embeddings:
+
+* [fastText word vectors](https://fasttext.cc/docs/en/crawl-vectors.html) (Sorani and Kurmanji)
+* [Polyglot's word embeddings](https://polyglot.readthedocs.io/en/latest/Embeddings.html)
+
+### Tools
+
+#### Fundamental processing
+
+* [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-01-05 for Sorani morphological analysig, spell checking, stemming and lemmatization
+* [Kurd-Spell](https://github.com/Hrazhan/kurd-spell) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-03-02
+* [Wergor for transliteration](https://github.com/sinaahmadi/wergor) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-05-03 (Sorani and Kurmanji)
+* [Kurdish Tokenization](https://github.com/sinaahmadi/KurdishTokenization) ⭐ 10 | 🐛 0 | 🌐 Lex | 📅 2024-06-22
+* [Gende Stemmer](https://github.com/mhmd-azeez/GendeStemmer) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2021-10-12 (Sorani)
+* [Part-of-speech tagger](https://github.com/sinaahmadi/KurdishPOSTagger) ⚠️ Archived (Sorani)
+* [Kurdspell](https://github.com/Kurdspell/Kurdspell) ⭐ 7 | 🐛 2 | 🌐 C# | 📅 2022-12-08 for Sorani spell checking
+* Apertium project for [Kurmanji](https://github.com/apertium/apertium-kmr) ⭐ 6 | 🐛 1 | 🌐 XML | 📅 2021-07-19 and [Sorani](https://github.com/apertium/apertium-ckb) ⭐ 2 | 🐛 0 | 🌐 XML | 📅 2021-07-20 morphological analysis
+* [Apertium rule-based Sorani spell-checker](https://github.com/rezKamal/ckb-spellchecker) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2021-05-20
+* [Jedar stemmer](https://github.com/klpp/codes/tree/master/stemming) ⭐ 1 | 🐛 3 | 🌐 Java | 📅 2013-09-01
+* [A finite-state morphological analyzer for Central Kurdish](https://github.com/CKMorph) (Sorani)
+* [Alexina Framework](https://gforge.inria.fr/projects/alexina/): morphological analysis and POS-tagger for Sorani (`soralex`) and Kurmanji (`kurlex`)
+* [Conversion of numbers into words](https://www.kurd.cc/numbers-to-kurdish-words) (Sorani and Kurmanji)
+* [Conversion of words into IPA](https://www.kurd.cc/kurdish-text-to-ipa-phonetics) (Kurmanji)
+
+#### Machine translation
+
+* [Kurdish MT](https://github.com/sinaahmadi/KurdishMT) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-03-21 (Sorani)
+* [Apertium](https://github.com/apertium) ([Sorani](https://github.com/apertium/apertium-ckb-eng) ⭐ 1 | 🐛 0 | 🌐 XML | 📅 2025-04-05 and [Kurmanji](https://github.com/apertium/apertium-kmr-eng) ⭐ 1 | 🐛 1 | 🌐 XML | 📅 2021-07-19)
+
+#### Named-entity recognition
+
+* [Autoregressive Entity Retrieval](https://github.com/facebookresearch/GENRE) ⚠️ Archived (Kurmanji)
+
+#### Optical character recognition
+
+* [Kurdish Handwritten Words](https://data.krd/) (Sorani)
+
+#### Libraries
+
+* [Kurdish Language Processing Toolkit](https://github.com/sinaahmadi/klpt) ⭐ 117 | 🐛 4 | 🌐 Python | 📅 2025-08-13: a natural language processing toolkit in Python
+* [Kurdish Language Library](https://github.com/dolanskurd/kurdish) ⚠️ Archived: converting characters and digits in Persian, English and Arabic to Kurdish and vice versa
+* [AsoSoft's Library for Kurdish](https://github.com/AsoSoft/AsoSoft-Library) ⭐ 25 | 🐛 0 | 🌐 C# | 📅 2023-09-16: normalizer, numeral converter, grapheme-to-phoneme convertor in C#
+* [Kurdînûs](https://github.com/aso-mehmudi/kurdinus) ⭐ 23 | 🐛 0 | 🌐 HTML | 📅 2025-09-06: pure JavaScript tools for transliteration, text conversion and normalization
+
+#### Language identification
+
+* [Language identifier](https://github.com/DanielJDufour/language-detector) ⭐ 37 | 🐛 5 | 🌐 Python | 📅 2020-06-07 (Sorani and Kurmanji)
+* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
+* [Perso-Arabic](https://github.com/sinaahmadi/PersoArabicLID) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-07-11 and [KurdishLID](https://github.com/sinaahmadi/KurdishLID) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2023-03-25 projects covering many languages including (Kurmanji, Sorani, Southern Kurdish, Gorani and Zazaki)
+* [Language identification of Kurdish and Zaza-Gorani languages](https://github.com/sinaahmadi/KurdishLID) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2023-03-25
+
+### Other
+
+In addition to these, you can find further information in other repositories and pages as follows:
+
+* [Developers Tree](https://devs.krd/)
+* [Kurdish resources](https://github.com/DevelopersTree/KurdishResources) ⭐ 23 | 🐛 1 | 📅 2020-08-28
+
+## Research
+
+These references are provided based on the data collected in the paper entitled [KLPT – Kurdish Language Processing Toolkit](https://sinaahmadi.github.io/docs/articles/ahmadi2020klpt.pdf). Note that references are provided in the [`bibliography`](https://github.com/sinaahmadi/awesome-kurdish/blob/main/bibliography.bib) ⭐ 87 | 🐛 1 | 🌐 TeX | 📅 2025-07-14 file.
+
+|            Reference            | Year     | Field                                 | dialects                                           |
+| :-----------------------------: | -------- | ------------------------------------- | -------------------------------------------------- |
+|       `esmaili2013sorani`       | 2013     | Dialectology                          | Sorani, Kurmanji                                   |
+|      `hassani2016automatic`     | 2016     | Dialectology                          | Sorani, Kurmanji                                   |
+|    `malmasi2016subdialectal`    | 2016     | Dialectology                          | Sorani                                             |
+|         `al2017kurdish`         | 2017     | Dialectology                          | Sorani, Kurmanji, Gorani                           |
+|       `amani:hal-03262435`      | 2021     | Dialectology                          | Kurdish, Zazaki & Gorani                           |
+|        `ahmadi2024cordi`        | **2024** | Dialectology                          | Sorani varieties                                   |
+|     `mohammed2012automatic`     | 2012     | Information retrieval and Text mining | Sorani                                             |
+|     `esmaili2012challenges`     | 2012     | Information retrieval and Text mining | Sorani                                             |
+|        `littell2016named`       | 2016     | Information retrieval and Text mining | Sorani                                             |
+|       `hassani2017method`       | 2017     | Information retrieval and Text mining | Sorani, Kurmanji                                   |
+| `esmaAl-Talabaniili2014towards` | 2014     | Information retrieval and Text mining | Sorani, Kurmanji                                   |
+|         `jaf2016simple`         | 2016     | Information retrieval and Text mining | Sorani                                             |
+|        `rashid2017robust`       | 2017     | Information retrieval and Text mining | Sorani                                             |
+|      `rashid2017automatic`      | 2017     | Information retrieval and Text mining | Sorani                                             |
+|       `saeed2018improving`      | 2018     | Information retrieval and Text mining | Sorani                                             |
+|       `mustafa2018kurdish`      | 2018     | Information retrieval and Text mining | Sorani                                             |
+|      `saeed2018evaluation`      | 2018     | Information retrieval and Text mining | Sorani                                             |
+|        `ahmadi2019wergor`       | 2019     | Information retrieval and Text mining | Sorani                                             |
+|      `mahmudi2021automated`     | 2021     | Information retrieval and Text mining | Sorani                                             |
+|     `abdulrahman2022lmspell`    | 2022     | Information retrieval and Text mining | Sorani                                             |
+|      `esmaili2013building`      | 2013     | Lexical resources                     | Sorani                                             |
+|      `aliabadi2014towards`      | 2014     | Lexical resources                     | Sorani                                             |
+|        `aliabadi2014semi`       | 2014     | Lexical resources                     | Sorani                                             |
+|        `ataman2018bianet`       | 2018     | Lexical resources                     | Kurmanji                                           |
+|       `ahmadi2019towards`       | 2019     | Lexical resources                     | Sorani, Kurmanji, Gorani                           |
+|   `abdulrahman2019developing`   | 2019     | Lexical resources                     | Sorani                                             |
+|      `abdulrahman2020using`     | 2020     | Lexical resources                     | Sorani                                             |
+|        `veisi2020toward`        | 2020     | Lexical resources                     | Sorani                                             |
+|        `ahmadi2020corpus`       | 2020     | Lexical resources                     | Sorani                                             |
+|      `ahmadi-2020-building`     | 2020     | Lexical resources                     | Zaza, Gorani                                       |
+|         `veisi2021jira`         | 2021     | Lexical resources                     | Sorani                                             |
+|           `azin2021sk`          | 2021     | Lexical resources                     | Southern Kurdish                                   |
+|       `hassani2017kurdish`      | 2017     | Machine Translation                   | Sorani, Kurmanji                                   |
+|        `kaka2018english`        | 2018     | Machine Translation                   | Sorani                                             |
+|       `ahmadi2020machine`       | 2020     | Machine Translation                   | Sorani                                             |
+|        `goyal2021flores`        | 2021     | Machine Translation                   | 101 languages incl. Sorani                         |
+|        `amini2021central`       | 2021     | Machine Translation                   | Sorani                                             |
+|      `ahmadi2022leveraging`     | 2022     | Machine Translation                   | Sorani                                             |
+|        `ahmadi2024cordi`        | 2024     | Machine Translation                   | Sorani                                             |
+|     `baban1995programmable`     | 1995     | Morphological and syntactic analysis  | Sorani                                             |
+|     `walther2010developing`     | 2010     | Morphological and syntactic analysis  | Sorani                                             |
+|        `walther2010fast`        | 2010     | Morphological and syntactic analysis  | Kurmanji                                           |
+|      `salavati2013stemming`     | 2013     | Morphological and syntactic analysis  | Sorani                                             |
+|         `jaf2014stemmer`        | 2014     | Morphological and syntactic analysis  | Sorani                                             |
+|         `jaf2016chapter`        | 2016     | Morphological and syntactic analysis  | Sorani                                             |
+|     `gokirmak2017dependency`    | 2017     | Morphological and syntactic analysis  | Kurmanji                                           |
+|      `salavati2018building`     | 2018     | Morphological and syntactic analysis  | Sorani                                             |
+|       `mustafa2018kurdish`      | 2018     | Morphological and syntactic analysis  | Sorani                                             |
+|       `ahmadi2020towards`       | 2020     | Morphological and syntactic analysis  | Sorani                                             |
+|    `ahmadi-2020-tokenization`   | 2020     | Morphological and syntactic analysis  | Sorani, Kurmanji                                   |
+|      `ahmadi2021modelling`      | 2021     | Morphological and syntactic analysis  | Sorani                                             |
+|       `ahmadi2020Hunspell`      | 2021     | Morphological and syntactic analysis  | Sorani                                             |
+|      `naserzade2021ckmorph`     | 2021     | Morphological and syntactic analysis  | Sorani                                             |
+|      `ahmadi2023revisiting`     | 2023     | Morphological and syntactic analysis  | Sorani                                             |
+|     `mohammed2012uniqueness`    | 2012     | Optical character recognition         | Sorani                                             |
+|    `mohammed2013handwritten`    | 2013     | Optical character recognition         | Sorani                                             |
+|       `shaltookisentiment`      | 2016     | Optical character recognition         | Sorani                                             |
+|      `zarro2017recognition`     | 2017     | Optical character recognition         | Sorani                                             |
+|       `yaseen2018kurdish`       | 2018     | Optical character recognition         | Sorani                                             |
+|       `dinler2018kurdish`       | 2018     | Optical character recognition         | Sorani                                             |
+|          `app11209752`          | 2021     | Optical character recognition         | Sorani                                             |
+|        `kaka2017building`       | 2017     | Other                                 | Sorani                                             |
+|      `mahmudi2021automatic`     | 2021     | Other                                 | Sorani                                             |
+|         `ahmadi2021ickl`        | 2021     | Other                                 | Sorani                                             |
+|        `ahmadi2023script`       | 2023     | Other                                 | Sorani, Kurmanji, Gorani                           |
+|       `hashim2018kurdish`       | 2018     | Sign language recognition             | Sorani                                             |
+|   `kamal-hassani-2020-towards`  | 2020     | Sign language recognition             | Sorani                                             |
+|  `daneshfar2009implementation`  | 2009     | Speech recognition                    | Sorani                                             |
+|     `barkhoda2009comparison`    | 2009     | Speech recognition                    | Sorani                                             |
+|  `bahrampour2009implementation` | 2009     | Speech recognition                    | Sorani                                             |
+|       `hassani2011kurdish`      | 2011     | Speech recognition                    | Sorani                                             |
+|       `dinler2017formant`       | 2017     | Speech recognition                    | Kurmanji                                           |
+|      `dinler2018extraction`     | 2018     | Speech recognition                    | Sorani, Kurmanji                                   |
+|        `qader2019kurdish`       | 2019     | Speech recognition                    | Sorani                                             |
+|        `delgado2024kaset`       | **2024** | Speech recognition                    | Sorani, Kurmanji                                   |
+|        `ahmadi2024cordi`        | **2024** | Speech recognition                    | Sorani varieties                                   |
+|        `ahmadi-2020-klpt`       | 2020     | Toolkits                              | Sorani, Kurmanji                                   |
+|       `de2021multilingual`      | 2021     | Named-entity recognition              | Kurmanji                                           |
+|          `abdullah2022`         | 2022     | Sentiment analysis                    | Sorani                                             |
+|           `awlla2022`           | 2022     | Sentiment analysis                    | Sorani                                             |
+|        `amin2022kurdish`        | 2022     | Sentiment analysis                    | Sorani                                             |
+|      `hameed2023sentiment`      | 2023     | Sentiment analysis                    | Sorani                                             |
+|           `zuhair2021`          | 2021     | Other                                 | Sorani                                             |
+|       `kamala2022kurdish`       | 2022     | Other                                 | Sorani                                             |
+|     `ahmadi2023fieldmatters`    | 2023     | Language identification               | Sorani, Kurmanji, Southern Kurdish, Zazaki, Gorani |
+|         `ahmadi2023pali`        | 2023     | Language identification               | Sorani, Kurmanji, Southern Kurdish, Gorani         |
+
+### Cite this repository
+
+If you find the provided data useful for your project, feel free to use it and please, cite the following paper, too:
+
+```
+@inproceedings{ahmadi-2020-klpt,
+    title = "{KLPT} {--} {K}urdish Language Processing Toolkit",
+    author = "Ahmadi, Sina",
+    booktitle = "Proceedings of Second Workshop for NLP Open Source Software (NLP-OSS)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.nlposs-1.11",
+    doi = "10.18653/v1/2020.nlposs-1.11",
+    pages = "72--84"
+}
+
+```
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
