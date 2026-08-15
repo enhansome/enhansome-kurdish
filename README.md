@@ -61,7 +61,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
 
-* [Kurdish annotated lexicon](https://github.com/sinaahmadi/KurdishHunspell/blob/main/ckb/ckb-Arab.dic) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-01-05 (Sorani)
+* [Kurdish annotated lexicon](https://github.com/sinaahmadi/KurdishHunspell/blob/main/ckb/ckb-Arab.dic) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-01-05 (Sorani)
 * [Kurdish lexicographical resources in Ontolex-Lemon](https://github.com/sinaahmadi/KurdishLexicography) ⭐ 4 | 🐛 0 | 📅 2021-07-08 (Sorani, Kurmanji, Gorani and Southern Kurdish)
 * [Kurdî Wikibase](https://kurdi.wikibase.cloud) (Sorani, Kurmanji, Gorani and Southern Kurdish)
 * Check [Dolan Hêriş](https://github.com/dolanskurd?tab=repositories)'s repositories for a list of Kurdish dictionaries and tools to extract words
@@ -99,7 +99,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 ### Benchmarks
 
 * Morphological analysis:
-  * [KurdishHunspell evaluation datasets](https://github.com/sinaahmadi/KurdishHunspell) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-01-05 (Sorani)
+  * [KurdishHunspell evaluation datasets](https://github.com/sinaahmadi/KurdishHunspell) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-01-05 (Sorani)
 * Tokenization:
   * [KurdishTokenization](https://github.com/sinaahmadi/KurdishTokenization) ⭐ 10 | 🐛 0 | 🌐 Lex | 📅 2024-06-22 (Sorani, Kurmanji)
   * [A sentence-segmented dataset](https://github.com/KurdishBLARK/KTC-Segmented) ⭐ 2 | 🐛 0 | 📅 2020-05-01 (Sorani)
@@ -124,7 +124,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 
 #### Fundamental processing
 
-* [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-01-05 for Sorani morphological analysig, spell checking, stemming and lemmatization
+* [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-01-05 for Sorani morphological analysig, spell checking, stemming and lemmatization
 * [Kurd-Spell](https://github.com/Hrazhan/kurd-spell) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-03-02
 * [Wergor for transliteration](https://github.com/sinaahmadi/wergor) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-05-03 (Sorani and Kurmanji)
 * [Kurdish Tokenization](https://github.com/sinaahmadi/KurdishTokenization) ⭐ 10 | 🐛 0 | 🌐 Lex | 📅 2024-06-22
@@ -288,4 +288,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

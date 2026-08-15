@@ -237,7 +237,7 @@
             "last_commit": "2026-01-05T14:25:00Z",
             "owner": "sinaahmadi",
             "repo": "KurdishHunspell",
-            "stars": 39
+            "stars": 41
           }
         },
         {
@@ -448,7 +448,7 @@
                 "last_commit": "2026-01-05T14:25:00Z",
                 "owner": "sinaahmadi",
                 "repo": "KurdishHunspell",
-                "stars": 39
+                "stars": 41
               }
             }
           ]
@@ -613,7 +613,7 @@
             "last_commit": "2026-01-05T14:25:00Z",
             "owner": "sinaahmadi",
             "repo": "KurdishHunspell",
-            "stars": 39
+            "stars": 41
           }
         },
         {
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:47:00.282Z",
+    "last_updated": "2026-08-15T14:17:18.995Z",
     "original_repository": "sinaahmadi/awesome-kurdish",
     "original_repository_sha": "c01d13532332eac8a38b399770f8d633242d23c9",
     "enhanced_repository": "enhansome/enhansome-kurdish",
