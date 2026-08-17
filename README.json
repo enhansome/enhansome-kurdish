@@ -332,6 +332,20 @@
         },
         {
           "node_type": "item",
+          "title": "Dataset of Kurdish poems with meter and form tags",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-29T20:16:48Z",
+            "owner": "AsoSoft",
+            "repo": "Vejinbooks-Poem-Dataset",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Sorani",
           "description": "and Kurmanji morphological datasets in UniMorph",
           "children": [],
@@ -342,20 +356,6 @@
             "owner": "unimorph",
             "repo": "ckb",
             "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dataset of Kurdish poems with meter and form tags",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-12-29T20:16:48Z",
-            "owner": "AsoSoft",
-            "repo": "Vejinbooks-Poem-Dataset",
-            "stars": 2
           }
         },
         {
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:17:38.526Z",
+    "last_updated": "2026-08-17T14:22:25.489Z",
     "original_repository": "sinaahmadi/awesome-kurdish",
     "original_repository_sha": "c01d13532332eac8a38b399770f8d633242d23c9",
     "enhanced_repository": "enhansome/enhansome-kurdish",
