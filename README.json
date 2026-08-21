@@ -916,6 +916,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Language identification of Kurdish and Zaza-Gorani languages",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 618879277,
+                    "language": "Shell",
+                    "last_commit": "2023-03-25T17:21:08Z",
+                    "owner": "sinaahmadi",
+                    "repo": "KurdishLID",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Perso-Arabic",
                   "description": "and KurdishLID projects covering many languages including (Kurmanji, Sorani, Southern Kurdish, Gorani and Zazaki)",
                   "children": [],
@@ -927,21 +942,6 @@
                     "owner": "sinaahmadi",
                     "repo": "PersoArabicLID",
                     "stars": 11
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Language identification of Kurdish and Zaza-Gorani languages",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 618879277,
-                    "language": "Shell",
-                    "last_commit": "2023-03-25T17:21:08Z",
-                    "owner": "sinaahmadi",
-                    "repo": "KurdishLID",
-                    "stars": 10
                   }
                 }
               ],
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:31:31.335Z",
+    "last_updated": "2026-08-21T14:30:05.418Z",
     "original_repository": "sinaahmadi/awesome-kurdish",
     "original_repository_id": 314684485,
     "original_repository_sha": "c01d13532332eac8a38b399770f8d633242d23c9",

@@ -27,7 +27,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 
 #### Language Models
 
-* [Kurdish Llama](https://github.com/Hrazhan/kurdish-llama) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-24 (Fine-tuned Llama model for Sorani)
+* [Kurdish Llama](https://github.com/Hrazhan/kurdish-llama) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-24 (Fine-tuned Llama model for Sorani)
 
 #### Corpora
 
@@ -163,8 +163,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 
 * [Language identifier](https://github.com/DanielJDufour/language-detector) ⭐ 37 | 🐛 5 | 🌐 Python | 📅 2020-06-07 (Sorani and Kurmanji)
 * [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
-* [Perso-Arabic](https://github.com/sinaahmadi/PersoArabicLID) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-07-11 and [KurdishLID](https://github.com/sinaahmadi/KurdishLID) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2023-03-25 projects covering many languages including (Kurmanji, Sorani, Southern Kurdish, Gorani and Zazaki)
-* [Language identification of Kurdish and Zaza-Gorani languages](https://github.com/sinaahmadi/KurdishLID) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2023-03-25
+* [Language identification of Kurdish and Zaza-Gorani languages](https://github.com/sinaahmadi/KurdishLID) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2023-03-25
+* [Perso-Arabic](https://github.com/sinaahmadi/PersoArabicLID) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-07-11 and [KurdishLID](https://github.com/sinaahmadi/KurdishLID) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2023-03-25 projects covering many languages including (Kurmanji, Sorani, Southern Kurdish, Gorani and Zazaki)
 
 ### Other
 
@@ -175,7 +175,7 @@ In addition to these, you can find further information in other repositories and
 
 ## Research
 
-These references are provided based on the data collected in the paper entitled [KLPT – Kurdish Language Processing Toolkit](https://sinaahmadi.github.io/docs/articles/ahmadi2020klpt.pdf). Note that references are provided in the [`bibliography`](https://github.com/sinaahmadi/awesome-kurdish/blob/main/bibliography.bib) ⭐ 88 | 🐛 2 | 🌐 TeX | 📅 2025-07-14 file.
+These references are provided based on the data collected in the paper entitled [KLPT – Kurdish Language Processing Toolkit](https://sinaahmadi.github.io/docs/articles/ahmadi2020klpt.pdf). Note that references are provided in the [`bibliography`](https://github.com/sinaahmadi/awesome-kurdish/blob/main/bibliography.bib) ⭐ 89 | 🐛 2 | 🌐 TeX | 📅 2025-07-14 file.
 
 |            Reference            | Year     | Field                                 | dialects                                           |
 | :-----------------------------: | -------- | ------------------------------------- | -------------------------------------------------- |
@@ -288,4 +288,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
