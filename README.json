@@ -9,6 +9,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Kurdish Llama",
+                  "description": "(Fine-tuned Llama model for Sorani)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 627643193,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-05-24T19:25:53Z",
+                    "owner": "RazhanHameed",
+                    "repo": "kurdish-llama",
+                    "stars": 18
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Language Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "AsoSoft corpus",
                   "description": "(Sorani)",
                   "children": [],
@@ -819,6 +841,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Autoregressive Entity Retrieval",
+                  "description": "(Kurmanji)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 301511303,
+                    "language": "Python",
+                    "last_commit": "2023-07-06T06:48:28Z",
+                    "owner": "facebookresearch",
+                    "repo": "GENRE",
+                    "stars": 801
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Named-entity recognition"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Kurdish Language Processing Toolkit",
                   "description": "a natural language processing toolkit in Python",
                   "children": [],
@@ -953,13 +997,35 @@
           "description": null,
           "node_type": "group",
           "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kurdish resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105191885,
+                "language": null,
+                "last_commit": "2020-08-28T11:52:22Z",
+                "owner": "devs-krd",
+                "repo": "KurdishResources",
+                "stars": 23
+              }
+            }
+          ],
+          "description": "In addition to these, you can find further information in other repositories and pages as follows:",
+          "node_type": "group",
+          "title": "Other"
         }
       ],
       "title": "Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:18:35.902Z",
+    "last_updated": "2026-08-24T14:42:42.398Z",
     "original_repository": "sinaahmadi/awesome-kurdish",
     "original_repository_id": 314684485,
     "original_repository_sha": "c01d13532332eac8a38b399770f8d633242d23c9",

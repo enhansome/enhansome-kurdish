@@ -170,8 +170,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 
 In addition to these, you can find further information in other repositories and pages as follows:
 
-* [Developers Tree](https://devs.krd/)
 * [Kurdish resources](https://github.com/DevelopersTree/KurdishResources) ⭐ 23 | 🐛 1 | 📅 2020-08-28
+* [Developers Tree](https://devs.krd/)
 
 ## Research
 
@@ -288,4 +288,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
