@@ -33,7 +33,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 
 * [AsoSoft corpus](https://github.com/AsoSoft/AsoSoft-Text-Corpus) ⭐ 29 | 🐛 1 | 📅 2022-04-01 (Sorani)
 * [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
-* [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) ⭐ 10 | 🐛 0 | 📅 2024-02-09 (Sorani)
+* [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) ⭐ 11 | 🐛 0 | 📅 2024-02-09 (Sorani)
 * [Kurdish folkloric lyrics corpus](https://github.com/KurdishBLARK/KurdishLyricsCorpus) ⭐ 7 | 🐛 4 | 🌐 HTML | 📅 2023-04-12 (Sorani)
 * [Zaza-Gorani corpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) ⭐ 6 | 🐛 0 | 📅 2022-12-13 (Zazaki and Gorani)
 * [Southern Kurdish and Laki corpora](https://github.com/sinaahmadi/ZazaGoraniCorpus) ⭐ 6 | 🐛 0 | 📅 2022-12-13 (Southern Kurdish and Laki)
@@ -288,4 +288,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
