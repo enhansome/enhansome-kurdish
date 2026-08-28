@@ -20,7 +20,8 @@
                     "owner": "RazhanHameed",
                     "repo": "kurdish-llama",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-Text-Corpus",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "KurdishBLARK",
                     "repo": "KTC",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "KurdishBLARK",
                     "repo": "KurdishLyricsCorpus",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "sinaahmadi",
                     "repo": "ZazaGoraniCorpus",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "sinaahmadi",
                     "repo": "ZazaGoraniCorpus",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -139,7 +146,8 @@
                     "owner": "facebookresearch",
                     "repo": "flores",
                     "stars": 770
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "KurdishBLARK",
                     "repo": "InterdialectCorpus",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "DOLMA-NLP",
                     "repo": "PARME",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -214,7 +226,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishMT",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +242,8 @@
                     "owner": "mihemmed",
                     "repo": "Kurdish-Machine-Translation-Project-KMTP-",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "DOLMA-NLP",
                     "repo": "bitext-mining",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -266,7 +281,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -281,7 +297,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishLexicography",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": "Check out a comprehensive list of Kurdish dictionaries and beware of copyright issues in the following projects:",
@@ -303,7 +320,8 @@
                     "owner": "MohammedSardar",
                     "repo": "Bive",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -318,7 +336,8 @@
                     "owner": "KurdishBLARK",
                     "repo": "BD-4SK-ASR",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -333,7 +352,8 @@
                     "owner": "UniversalDependencies",
                     "repo": "UD_Northern_Kurdish-Kurmanji",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +368,8 @@
                     "owner": "ftkurt",
                     "repo": "kurdish-twitter-data",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -363,7 +384,8 @@
                     "owner": "KurdishBLARK",
                     "repo": "KurdishSignLanguage",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -378,7 +400,8 @@
                     "owner": "AsoSoft",
                     "repo": "Vejinbooks-Poem-Dataset",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -393,7 +416,8 @@
                     "owner": "unimorph",
                     "repo": "ckb",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -408,7 +432,8 @@
                     "owner": "rania-azad",
                     "repo": "FakeKurdNews---Fake-Kurdish-News-Dataset",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -435,7 +460,8 @@
                 "owner": "sinaahmadi",
                 "repo": "CORDI",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:22:34.172Z"
             },
             {
               "node_type": "item",
@@ -450,7 +476,8 @@
                 "owner": "ArashAmani",
                 "repo": "Kurdish-Dialect-Recognition",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:22:34.172Z"
             },
             {
               "node_type": "item",
@@ -465,7 +492,8 @@
                 "owner": "DOLMA-NLP",
                 "repo": "asr",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:22:34.172Z"
             }
           ],
           "description": null,
@@ -492,7 +520,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ]
             },
@@ -514,7 +543,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishTokenization",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -529,7 +559,8 @@
                     "owner": "KurdishBLARK",
                     "repo": "KTC-Segmented",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ]
             },
@@ -551,7 +582,8 @@
                     "owner": "sinaahmadi",
                     "repo": "wergor",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -566,7 +598,8 @@
                     "owner": "AsoSoft",
                     "repo": "Kurdish-G2P-dataset",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ]
             },
@@ -588,7 +621,8 @@
                     "owner": "AsoSoft",
                     "repo": "Central-Kurdish-Spelling-dataset",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ]
             },
@@ -610,7 +644,8 @@
                     "owner": "RazhanHameed",
                     "repo": "sentiment",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ]
             },
@@ -632,7 +667,8 @@
                     "owner": "sinaahmadi",
                     "repo": "ScriptNormalization",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ]
             }
@@ -658,7 +694,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -673,7 +710,8 @@
                     "owner": "RazhanHameed",
                     "repo": "kurd-spell",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -688,7 +726,8 @@
                     "owner": "sinaahmadi",
                     "repo": "wergor",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -703,7 +742,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishTokenization",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -718,7 +758,8 @@
                     "owner": "mhmd-azeez",
                     "repo": "GendeStemmer",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -733,7 +774,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishPOSTagger",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -748,7 +790,8 @@
                     "owner": "Kurdspell",
                     "repo": "Kurdspell",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -763,7 +806,8 @@
                     "owner": "apertium",
                     "repo": "apertium-kmr",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -778,7 +822,8 @@
                     "owner": "rezKamal",
                     "repo": "ckb-spellchecker",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -793,7 +838,8 @@
                     "owner": "klpp",
                     "repo": "codes",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -815,7 +861,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishMT",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -830,7 +877,8 @@
                     "owner": "apertium",
                     "repo": "apertium-ckb-eng",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -852,7 +900,8 @@
                     "owner": "facebookresearch",
                     "repo": "GENRE",
                     "stars": 801
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -874,7 +923,8 @@
                     "owner": "sinaahmadi",
                     "repo": "klpt",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -889,7 +939,8 @@
                     "owner": "0xdolan",
                     "repo": "kurdish",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -904,7 +955,8 @@
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-Library",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -919,7 +971,8 @@
                     "owner": "Kurdinus",
                     "repo": "kurdinusLibrary",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -941,7 +994,8 @@
                     "owner": "DanielJDufour",
                     "repo": "language-detector",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -956,7 +1010,8 @@
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -971,7 +1026,8 @@
                     "owner": "sinaahmadi",
                     "repo": "KurdishLID",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 },
                 {
                   "node_type": "item",
@@ -986,7 +1042,8 @@
                     "owner": "sinaahmadi",
                     "repo": "PersoArabicLID",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
                 }
               ],
               "description": null,
@@ -1013,7 +1070,8 @@
                 "owner": "devs-krd",
                 "repo": "KurdishResources",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:22:34.172Z"
             }
           ],
           "description": "In addition to these, you can find further information in other repositories and pages as follows:",
@@ -1025,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:31:13.354Z",
+    "last_updated": "2026-08-28T23:22:34.172Z",
     "original_repository_info": {
       "archived": false,
       "id": 314684485,
