@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is an attempt to fine-tune the Llama model for Central Kurdish.",
+                    "homepage": null,
                     "id": 627643193,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-05-24T19:25:53Z",
+                    "open_issues": 0,
                     "owner": "RazhanHameed",
                     "repo": "kurdish-llama",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -37,12 +42,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AsoSoft Text Corpus is the first large scale text corpus for the Kurdish language.",
+                    "homepage": "http://asosoft.com/en/",
                     "id": 160185857,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-04-01T03:17:47Z",
+                    "open_issues": 1,
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-Text-Corpus",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "central-kurdish",
+                      "corpus",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "natural-language-processing",
+                      "sorani",
+                      "text-corpus"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -53,12 +71,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
+                    "homepage": "https://aclanthology.org/2024.lrec-main.877/",
                     "id": 424207016,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-29T23:10:32Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "automatic-speech-recognition",
+                      "dialect-identification",
+                      "erbil",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "language-identification",
+                      "machine-translation",
+                      "mahabad",
+                      "sanandaj",
+                      "sorani",
+                      "sulaymaniyah"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -69,12 +104,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kurdish Textbooks Corpus",
+                    "homepage": null,
                     "id": 192109747,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-09T19:30:33Z",
+                    "open_issues": 0,
                     "owner": "KurdishBLARK",
                     "repo": "KTC",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "corpus",
+                      "corpus-linguistics",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "language-resources",
+                      "natural-language-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -85,12 +132,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Corpus of the Kurdish Folkloric Lyrics",
+                    "homepage": "https://kurdishblark.github.io/KurdishLyricsCorpus",
                     "id": 244051386,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-04-12T05:41:36Z",
+                    "open_issues": 4,
                     "owner": "KurdishBLARK",
                     "repo": "KurdishLyricsCorpus",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "corpus",
+                      "folkloristics",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "lyrics"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -101,12 +159,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A corpus for the Zazaki and Gorani languages",
+                    "homepage": "https://aclanthology.org/2020.vardial-1.7/",
                     "id": 280008789,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2022-12-13T04:16:40Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "ZazaGoraniCorpus",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "computational-linguistics",
+                      "corpus",
+                      "corpus-data",
+                      "corpus-linguistics",
+                      "feyli",
+                      "gorani",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "less-resource-languages",
+                      "natural-language-processing",
+                      "southern-kurdish",
+                      "zazaki"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -117,12 +193,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A corpus for the Zazaki and Gorani languages",
+                    "homepage": "https://aclanthology.org/2020.vardial-1.7/",
                     "id": 280008789,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2022-12-13T04:16:40Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "ZazaGoraniCorpus",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "computational-linguistics",
+                      "corpus",
+                      "corpus-data",
+                      "corpus-linguistics",
+                      "feyli",
+                      "gorani",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "less-resource-languages",
+                      "natural-language-processing",
+                      "southern-kurdish",
+                      "zazaki"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -140,12 +234,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Facebook Low Resource (FLoRes) MT Benchmark",
+                    "homepage": null,
                     "id": 168629138,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-11-20T21:03:52Z",
+                    "open_issues": 22,
                     "owner": "facebookresearch",
                     "repo": "flores",
-                    "stars": 770
+                    "stars": 770,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -156,12 +255,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech",
+                    "homepage": null,
                     "id": 504636627,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2022-06-24T05:54:34Z",
+                    "open_issues": 1,
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "corpus",
+                      "kurdish",
+                      "speech",
+                      "tts"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -172,12 +281,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A parallel corpus of Sorani, Kurmanji and English",
+                    "homepage": "https://kurdishblark.github.io/",
                     "id": 286140690,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2020-10-06T01:17:58Z",
+                    "open_issues": 0,
                     "owner": "KurdishBLARK",
                     "repo": "InterdialectCorpus",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "corpus",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "machine-translation",
+                      "natural-language-processing",
+                      "parallel-corpus"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -188,12 +309,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
+                    "homepage": "https://aclanthology.org/2024.lrec-main.877/",
                     "id": 424207016,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-29T23:10:32Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "automatic-speech-recognition",
+                      "dialect-identification",
+                      "erbil",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "language-identification",
+                      "machine-translation",
+                      "mahabad",
+                      "sanandaj",
+                      "sorani",
+                      "sulaymaniyah"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -204,12 +342,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parallel corpora for Middle Eastern languages - ACL2025",
+                    "homepage": "https://aclanthology.org/2025.acl-long.1451.pdf",
                     "id": 842085978,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-08-28T20:42:56Z",
+                    "open_issues": 0,
                     "owner": "DOLMA-NLP",
                     "repo": "PARME",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "corpus",
+                      "gilaki",
+                      "hawrami",
+                      "kurdish-language-processing",
+                      "laki-kurdish",
+                      "luri-bakhtiari",
+                      "machine-translation",
+                      "mazanderani",
+                      "middle-east",
+                      "nlp",
+                      "southern-kurdish",
+                      "talysh",
+                      "zazaki"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -220,12 +377,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Towards Machine Translation for the Kurdish Language",
+                    "homepage": null,
                     "id": 275429804,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-03-21T15:16:33Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishMT",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "less-resource-languages",
+                      "machine-translation",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -236,12 +404,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kurdish Machine translation project",
+                    "homepage": null,
                     "id": 367693734,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-06-04T08:58:19Z",
+                    "open_issues": 1,
                     "owner": "mihemmed",
                     "repo": "Kurdish-Machine-Translation-Project-KMTP-",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -252,12 +425,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bitext mining for low-resourced Middle Eastern Languages - IWSLT2025",
+                    "homepage": "https://sinaahmadi.github.io/docs/articles/ahmadi2025iwslt.pdf",
                     "id": 991600133,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-28T20:46:19Z",
+                    "open_issues": 0,
                     "owner": "DOLMA-NLP",
                     "repo": "bitext-mining",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "bitext-mining",
+                      "gilaki",
+                      "hawrami",
+                      "kurdish",
+                      "laki-kurdish",
+                      "low-resource",
+                      "luri-bakhtiari",
+                      "machine-translation",
+                      "mazandarani",
+                      "southern-kurdish",
+                      "talysh",
+                      "zazaki"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -275,12 +466,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A morphological analyzer and spell checker for Kurdish in Hunspell",
+                    "homepage": "https://sinaahmadi.github.io/KurdishHunspell/",
                     "id": 305542779,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-05T14:25:00Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "computational-linguistics",
+                      "hunspell",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurmanji",
+                      "morphological-analyser",
+                      "morphology",
+                      "natural-language-processing",
+                      "sorani",
+                      "spell-checker",
+                      "spell-checking"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -291,12 +499,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lexicographical resource in Ontolex-Lemon for Kurdish",
+                    "homepage": null,
                     "id": 347716323,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2021-07-08T12:39:48Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishLexicography",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-dictionary",
+                      "kurdish-language-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -314,12 +531,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bive is a Kurdish profanity language processing project.",
+                    "homepage": null,
                     "id": 475831448,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-06-03T06:12:21Z",
+                    "open_issues": 0,
                     "owner": "MohammedSardar",
                     "repo": "Bive",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "data",
+                      "dataanalysis",
+                      "kurdish",
+                      "kurdish-corpus",
+                      "kurdish-dataset",
+                      "kurdish-language-processing",
+                      "kurdishdata",
+                      "kurdishnlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -330,12 +561,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An experimental dataset of Sorani Kurdish for speech recognition using CMUSphinx",
+                    "homepage": null,
                     "id": 224825660,
                     "language": "Perl",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-03-28T08:26:48Z",
+                    "open_issues": 0,
                     "owner": "KurdishBLARK",
                     "repo": "BD-4SK-ASR",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -346,12 +582,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Northern Kurdish data.",
+                    "homepage": null,
                     "id": 70976563,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-06T19:11:06Z",
+                    "open_issues": 0,
                     "owner": "UniversalDependencies",
                     "repo": "UD_Northern_Kurdish-Kurmanji",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -362,12 +603,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kurdish twitter data repository for Kurmanji and Sorani dialects",
+                    "homepage": null,
                     "id": 270318014,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2020-06-07T21:27:15Z",
+                    "open_issues": 0,
                     "owner": "ftkurt",
                     "repo": "kurdish-twitter-data",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "datasets",
+                      "kurdish",
+                      "kurdish-language-library",
+                      "twitter"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -378,12 +629,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Datasets for text to Kurdish Sign Language (KuSL) translation",
+                    "homepage": null,
                     "id": 249647148,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2020-04-13T13:07:32Z",
+                    "open_issues": 0,
                     "owner": "KurdishBLARK",
                     "repo": "KurdishSignLanguage",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurdish-sign-language",
+                      "language-resource"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -394,12 +655,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A dataset of 1154 Central Kurdish poems with meter and form tags extracted from vejinbooks.com",
+                    "homepage": null,
                     "id": 160289263,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-12-29T20:16:48Z",
+                    "open_issues": 0,
                     "owner": "AsoSoft",
                     "repo": "Vejinbooks-Poem-Dataset",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "kurdish",
+                      "vejinbooks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -410,12 +679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 99254726,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-07-16T05:17:52Z",
+                    "open_issues": 0,
                     "owner": "unimorph",
                     "repo": "ckb",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -426,12 +700,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 370932820,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-26T06:47:36Z",
+                    "open_issues": 0,
                     "owner": "rania-azad",
                     "repo": "FakeKurdNews---Fake-Kurdish-News-Dataset",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -454,12 +733,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
+                "homepage": "https://aclanthology.org/2024.lrec-main.877/",
                 "id": 424207016,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-29T23:10:32Z",
+                "open_issues": 0,
                 "owner": "sinaahmadi",
                 "repo": "CORDI",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "automatic-speech-recognition",
+                  "dialect-identification",
+                  "erbil",
+                  "kurdish",
+                  "kurdish-language-processing",
+                  "language-identification",
+                  "machine-translation",
+                  "mahabad",
+                  "sanandaj",
+                  "sorani",
+                  "sulaymaniyah"
+                ]
               },
               "first_seen": "2026-08-28T23:22:34.172Z"
             },
@@ -470,12 +766,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We extract the x-vector and i-vector of five Kurdish Dialects and use these vectors to recognition Kurdish dialects.",
+                "homepage": null,
                 "id": 374939006,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-10-08T08:44:41Z",
+                "open_issues": 1,
                 "owner": "ArashAmani",
                 "repo": "Kurdish-Dialect-Recognition",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "dataset",
+                  "i-vector",
+                  "kurdish",
+                  "kurdish-dataset",
+                  "kurdish-dialects",
+                  "kurdish-language-processing",
+                  "recognition",
+                  "x-vector"
+                ]
               },
               "first_seen": "2026-08-28T23:22:34.172Z"
             },
@@ -486,12 +796,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic Speech Recognition for Low-Resourced Middle Eastern Languages - Interspeech 2025",
+                "homepage": "https://sinaahmadi.github.io/docs/articles/hameed2025ASR-ME.pdf",
                 "id": 894549886,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-09T08:22:51Z",
+                "open_issues": 1,
                 "owner": "DOLMA-NLP",
                 "repo": "asr",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "asr",
+                  "gilaki",
+                  "hawrami",
+                  "kurdish",
+                  "mazandarani",
+                  "mazanderani",
+                  "southern-kurdish",
+                  "speech-recognition",
+                  "whisper",
+                  "zazaki"
+                ]
               },
               "first_seen": "2026-08-28T23:22:34.172Z"
             }
@@ -514,12 +840,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A morphological analyzer and spell checker for Kurdish in Hunspell",
+                    "homepage": "https://sinaahmadi.github.io/KurdishHunspell/",
                     "id": 305542779,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-05T14:25:00Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "computational-linguistics",
+                      "hunspell",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurmanji",
+                      "morphological-analyser",
+                      "morphology",
+                      "natural-language-processing",
+                      "sorani",
+                      "spell-checker",
+                      "spell-checking"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -537,12 +880,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tokenization resources for Kurdish (Sorani & Kurmanji dialects) ",
+                    "homepage": "https://aclanthology.org/2020.vardial-1.11/",
                     "id": 310057257,
                     "language": "Lex",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-22T08:13:05Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishTokenization",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurmanji",
+                      "natural-language-processing",
+                      "nlp",
+                      "sorani",
+                      "tokenization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -553,12 +909,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A segmented version of KTC",
+                    "homepage": null,
                     "id": 248229233,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2020-05-01T11:02:37Z",
+                    "open_issues": 0,
                     "owner": "KurdishBLARK",
                     "repo": "KTC-Segmented",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "corpus",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "natural-language-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -576,12 +942,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rule-based Kurdish Transliterator",
+                    "homepage": null,
                     "id": 99863744,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-03T10:42:14Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "wergor",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "transliteration",
+                      "wergor-corpus",
+                      "wergor-transliterator"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -592,12 +969,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Datasets for evaluation of Central Kurdish Grapheme-to-Phoneme Conversion systems",
+                    "homepage": null,
                     "id": 172930780,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-12-29T20:14:25Z",
+                    "open_issues": 0,
                     "owner": "AsoSoft",
                     "repo": "Kurdish-G2P-dataset",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "g2p",
+                      "grapheme-to-phoneme",
+                      "kurdish-language-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -615,12 +1001,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Datasets for evaluation of Central Kurdish spell-checking systems",
+                    "homepage": null,
                     "id": 363483538,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-01T21:48:24Z",
+                    "open_issues": 0,
                     "owner": "AsoSoft",
                     "repo": "Central-Kurdish-Spelling-dataset",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -638,12 +1029,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 564516010,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-04-27T15:16:31Z",
+                    "open_issues": 0,
                     "owner": "RazhanHameed",
                     "repo": "sentiment",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -661,12 +1057,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Script Normalization for Unconventional Writing of Perso-Arabic scripts (ACL2023)",
+                    "homepage": "https://huggingface.co/spaces/SinaAhmadi/ScriptNormalization",
                     "id": 581362109,
                     "language": "PLSQL",
+                    "license": null,
                     "last_commit": "2023-07-09T00:21:43Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "ScriptNormalization",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "acl2023",
+                      "arabic",
+                      "azeri",
+                      "gilaki",
+                      "gorani",
+                      "kashmiri",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurmanji",
+                      "less-resource-languages",
+                      "mazanderani",
+                      "nlp",
+                      "persian",
+                      "preprocessing",
+                      "script-normalization",
+                      "sindhi",
+                      "sorani",
+                      "turkish",
+                      "urdu"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -688,12 +1109,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A morphological analyzer and spell checker for Kurdish in Hunspell",
+                    "homepage": "https://sinaahmadi.github.io/KurdishHunspell/",
                     "id": 305542779,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-05T14:25:00Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "computational-linguistics",
+                      "hunspell",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurmanji",
+                      "morphological-analyser",
+                      "morphology",
+                      "natural-language-processing",
+                      "sorani",
+                      "spell-checker",
+                      "spell-checking"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -704,12 +1142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✍🏼 Neural Spell Checker for Central Kurdish (Sorani)",
+                    "homepage": "https://huggingface.co/spaces/razhan/Kurd-Spell",
                     "id": 692136138,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-02T18:32:28Z",
+                    "open_issues": 0,
                     "owner": "RazhanHameed",
                     "repo": "kurd-spell",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -720,12 +1163,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rule-based Kurdish Transliterator",
+                    "homepage": null,
                     "id": 99863744,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-03T10:42:14Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "wergor",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "transliteration",
+                      "wergor-corpus",
+                      "wergor-transliterator"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -736,12 +1190,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tokenization resources for Kurdish (Sorani & Kurmanji dialects) ",
+                    "homepage": "https://aclanthology.org/2020.vardial-1.11/",
                     "id": 310057257,
                     "language": "Lex",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-22T08:13:05Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishTokenization",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurmanji",
+                      "natural-language-processing",
+                      "nlp",
+                      "sorani",
+                      "tokenization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -752,12 +1219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A grammatically incorrect Stemmer for Sorani Kurdish",
+                    "homepage": null,
                     "id": 416464819,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2021-10-12T19:14:18Z",
+                    "open_issues": 0,
                     "owner": "mhmd-azeez",
                     "repo": "GendeStemmer",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -768,12 +1240,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Sorani Kurdish part-of-speech tagger",
+                    "homepage": null,
                     "id": 52688049,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2017-11-17T04:38:46Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishPOSTagger",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "morphological-analysis",
+                      "pos-tagging",
+                      "syntactic-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -784,12 +1267,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Kurdish Spellchecker",
+                    "homepage": "http://kurdspell.com",
                     "id": 157244807,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2022-12-08T06:02:49Z",
+                    "open_issues": 2,
                     "owner": "Kurdspell",
                     "repo": "Kurdspell",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "dictionary",
+                      "hunspell",
+                      "kurdish"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -800,12 +1292,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apertium linguistic data for Kurdish Kurmanji",
+                    "homepage": null,
                     "id": 124319010,
                     "language": "XML",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-07-19T20:55:40Z",
+                    "open_issues": 1,
                     "owner": "apertium",
                     "repo": "apertium-kmr",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "apertium-languages",
+                      "iranian-languages"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -816,12 +1316,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apertium rule-based language package for Sorani Kurdish.",
+                    "homepage": null,
                     "id": 368920973,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-05-20T20:35:27Z",
+                    "open_issues": 0,
                     "owner": "rezKamal",
                     "repo": "ckb-spellchecker",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -832,12 +1337,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 9387897,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2013-09-01T06:52:43Z",
+                    "open_issues": 3,
                     "owner": "klpp",
                     "repo": "codes",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -855,12 +1365,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Towards Machine Translation for the Kurdish Language",
+                    "homepage": null,
                     "id": 275429804,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-03-21T15:16:33Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishMT",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "less-resource-languages",
+                      "machine-translation",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -871,12 +1392,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apertium translation pair for Central Kurdish and English",
+                    "homepage": null,
                     "id": 124322768,
                     "language": "XML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-05T10:06:04Z",
+                    "open_issues": 0,
                     "owner": "apertium",
                     "repo": "apertium-ckb-eng",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "apertium-incubator"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -894,12 +1422,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Autoregressive Entity Retrieval",
+                    "homepage": null,
                     "id": 301511303,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-06T06:48:28Z",
+                    "open_issues": 16,
                     "owner": "facebookresearch",
                     "repo": "GENRE",
-                    "stars": 801
+                    "stars": 801,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -917,12 +1450,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Kurdish Language Processing Toolkit",
+                    "homepage": "https://sinaahmadi.github.io/klpt/",
                     "id": 310766025,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-13T10:10:56Z",
+                    "open_issues": 4,
                     "owner": "sinaahmadi",
                     "repo": "klpt",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurdish-oss",
+                      "kurdish-stemming",
+                      "kurdish-tokenization",
+                      "language-technology",
+                      "less-resource-languages",
+                      "natural-language-processing",
+                      "toolkit"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -933,12 +1481,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Kurdish Language Library for converting characters and digits in Persian, English and Arabic to Kurdish and vice versa.",
+                    "homepage": "https://dolanskurd.github.io/kurdish/",
                     "id": 145705233,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-02-01T08:54:40Z",
+                    "open_issues": 1,
                     "owner": "0xdolan",
                     "repo": "kurdish",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "arabic",
+                      "convert-characters",
+                      "converting-kurdish-digits",
+                      "digit",
+                      "farsi",
+                      "kurdish",
+                      "kurdish-language-library",
+                      "kurdish-oss",
+                      "kurdishcalendar",
+                      "kurdishdate",
+                      "kurdishkeyboard",
+                      "persian",
+                      "python",
+                      "python-library",
+                      "python-modules"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -949,12 +1518,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AsoSoft's Library for Kurdish language processing tasks",
+                    "homepage": null,
                     "id": 321884290,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2023-09-16T14:43:01Z",
+                    "open_issues": 0,
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-Library",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "central-kurdish",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "natural-language-processing",
+                      "normalization",
+                      "sorani",
+                      "unicode-normalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -965,12 +1547,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript tools for normalization and transliteration of Kurdish texts",
+                    "homepage": "http://kurdinus.com/",
                     "id": 205315294,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2025-09-06T09:26:36Z",
+                    "open_issues": 0,
                     "owner": "Kurdinus",
                     "repo": "kurdinusLibrary",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "kurdish-language-processing",
+                      "transliterate-kurdish",
+                      "transliteration",
+                      "unicode-normalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -988,12 +1580,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Detect the language of text",
+                    "homepage": null,
                     "id": 47432249,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-06-07T02:40:09Z",
+                    "open_issues": 5,
                     "owner": "DanielJDufour",
                     "repo": "language-detector",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "arabic",
+                      "farsi",
+                      "french",
+                      "german",
+                      "kurdish",
+                      "kurmanci",
+                      "language",
+                      "language-detector",
+                      "nlp",
+                      "sorani",
+                      "spanish",
+                      "turkish"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -1004,12 +1614,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
+                    "homepage": "https://aclanthology.org/2024.lrec-main.877/",
                     "id": 424207016,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-29T23:10:32Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "automatic-speech-recognition",
+                      "dialect-identification",
+                      "erbil",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "language-identification",
+                      "machine-translation",
+                      "mahabad",
+                      "sanandaj",
+                      "sorani",
+                      "sulaymaniyah"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -1020,12 +1647,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Language identification of Kurdish and Zaza-Gorani languages (& variants) ",
+                    "homepage": "https://aclanthology.org/2023.fieldmatters-1.7/",
                     "id": 618879277,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2023-03-25T17:21:08Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishLID",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "arabic",
+                      "feyli",
+                      "gorani",
+                      "hawrami",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurdish-oss",
+                      "kurmanji",
+                      "language-identification",
+                      "less-resource-languages",
+                      "persian",
+                      "sorani",
+                      "southern-kurdish",
+                      "turkish",
+                      "zazaki"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 },
@@ -1036,12 +1684,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PALI: Language identification for Perso-Arabic Scripts ",
+                    "homepage": "https://aclanthology.org/2023.vardial-1.8/",
                     "id": 618697564,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-11T14:29:33Z",
+                    "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "PersoArabicLID",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "arabic",
+                      "balochi",
+                      "brahui",
+                      "gilaki",
+                      "gorani",
+                      "kashmiri",
+                      "kurdish",
+                      "kurmanji",
+                      "language-identification",
+                      "mazanderani",
+                      "pashto",
+                      "persian",
+                      "punjabi",
+                      "saraiki",
+                      "sindhi",
+                      "sorani",
+                      "southern-kurdish",
+                      "torwali",
+                      "urdu",
+                      "uyghur"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
                 }
@@ -1064,12 +1738,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository for resources in Kurdish Language",
+                "homepage": null,
                 "id": 105191885,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-08-28T11:52:22Z",
+                "open_issues": 1,
                 "owner": "devs-krd",
                 "repo": "KurdishResources",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "bot",
+                  "kurdish",
+                  "kurdish-oss",
+                  "linguistics",
+                  "wordlist"
+                ]
               },
               "first_seen": "2026-08-28T23:22:34.172Z"
             }
@@ -1083,15 +1768,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:22:34.172Z",
+    "last_updated": "2026-08-29T04:58:54.135Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
+      "homepage": null,
       "id": 314684485,
       "language": "TeX",
+      "license": "NOASSERTION",
       "last_commit": "2025-07-14T11:33:07Z",
+      "open_issues": 2,
       "owner": "sinaahmadi",
       "repo": "awesome-kurdish",
-      "stars": 89
+      "stars": 89,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hawrami",
+        "kurdish",
+        "kurdish-language-processing",
+        "kurmanji",
+        "laki-kurdish",
+        "language-technology",
+        "sorani",
+        "southern-kurdish",
+        "zazaki"
+      ]
     },
     "original_repository_sha": "c01d13532332eac8a38b399770f8d633242d23c9",
     "enhanced_repository": "enhansome/enhansome-kurdish",
