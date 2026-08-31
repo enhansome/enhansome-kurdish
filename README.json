@@ -1332,6 +1332,41 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Kurdish Spell Checker",
+                  "description": "(Kurmanji), a Manifest V3 Chrome extension for real-time spell checking with a 380,000+ word dictionary",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A professional Manifest V3 Chrome Extension for real-time Kurdish Kurmanci (Northern Kurdish) spell checking.",
+                    "homepage": null,
+                    "id": 1277713858,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2026-08-15T06:10:28Z",
+                    "open_issues": 0,
+                    "owner": "Kurdish-Tech",
+                    "repo": "kurdish-spell-checker-extension",
+                    "stars": 2,
+                    "topics": [
+                      "brave-extension",
+                      "chrome-extension",
+                      "dictionary",
+                      "html-css-javascript",
+                      "hunspell-extension",
+                      "hunspell-spell-checker",
+                      "javascript",
+                      "json",
+                      "kurdish",
+                      "kurdish-language",
+                      "kurdish-language-processing",
+                      "kurdish-spell-checking",
+                      "spellcheck"
+                    ]
+                  },
+                  "first_seen": "2026-08-31T19:48:40.630Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Jedar stemmer",
                   "description": null,
                   "children": [],
@@ -1757,6 +1792,32 @@
                 ]
               },
               "first_seen": "2026-08-28T23:22:34.172Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Kurdish-Tech",
+              "description": ", an org building open-source Kurdish language tools, including a Kurmancî Latin keyboard layout for Windows, macOS and Linux",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An official and classic Kurdish Latin (Kurdish-US) keyboard layout for Windows,Linux and mac. Ready to install and fully compatible with modern systems.",
+                "homepage": "https://kurdish-tech.github.io/kurdish-kurmanci-keyboard-layout/",
+                "id": 1274480354,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-08-30T07:06:08Z",
+                "open_issues": 0,
+                "owner": "Kurdish-Tech",
+                "repo": "kurdish-kurmanci-keyboard-layout",
+                "stars": 5,
+                "topics": [
+                  "keyboard-layout",
+                  "kurdish",
+                  "kurdish-keyboard",
+                  "kurmanci"
+                ]
+              },
+              "first_seen": "2026-08-31T19:48:40.630Z"
             }
           ],
           "description": "In addition to these, you can find further information in other repositories and pages as follows:",
@@ -1768,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:52:21.761Z",
+    "last_updated": "2026-08-31T19:48:40.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
@@ -1776,8 +1837,8 @@
       "id": 314684485,
       "language": "TeX",
       "license": "NOASSERTION",
-      "last_commit": "2025-07-14T11:33:07Z",
-      "open_issues": 2,
+      "last_commit": "2026-08-31T13:17:58Z",
+      "open_issues": 1,
       "owner": "sinaahmadi",
       "repo": "awesome-kurdish",
       "stars": 89,
@@ -1795,7 +1856,7 @@
         "zazaki"
       ]
     },
-    "original_repository_sha": "c01d13532332eac8a38b399770f8d633242d23c9",
+    "original_repository_sha": "cf94f5971c68cdfa444f705b33fc004aa8034f1f",
     "enhanced_repository": "enhansome/enhansome-kurdish",
     "enhanced_repository_description": null,
     "title": "Awesome Kurdish with stars"

@@ -41,6 +41,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 * [Pewan](https://sinaahmadi.github.io/resources/pewan.html) (Sorani and Kurmanji)
 * [Kurdish resources on Clarin](https://vlo.clarin.eu/search;jsessionid=61B467FE3D0D9F9787A01F0BC8E0EEAA?1\&fq=languageCode:code:kmr\&fq=languageCode:code:ckb\&fq=languageCode:code:sdh\&fq=languageCode:code:kur\&fqType=languageCode:or)
 * [University of Bamberg's corpora](https://multicast.aspra.uni-bamberg.de/resources/#kurdish) \[Kurmanji & Laki]
+* [KurdishCorpus-clean](https://huggingface.co/datasets/kurdish-tech/KurdishCorpus-clean) (Kurmanji, Sorani and Zazaki), a deduplicated, quality-filtered corpus of 2.7M documents (2.97B tokens) built from FineWeb-2, Wiktionary, MADLAD-400, HPLT 2.0, CC-100, Wikipedia and academic sources
 
 #### Parallel corpora
 
@@ -69,6 +70,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 * [Freedict](https://freedict.org/downloads/) word lists (Sorani and Kurmanji)
 * [Translation Initiative for COVID-19](https://tico-19.github.io/terminologies.html) including Sorani and Kurmanji
 * [MyMemory dictionaries](https://mymemory.translated.net/) with an open-access API (Sorani)
+* [Ferheng](https://kurdish-tech.github.io/) (Kurmanji, Sorani and Zazaki), an offline-first, client-side dictionary web app and desktop app with 456,000+ entries
 
 #### Datasets
 
@@ -133,6 +135,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 * [Kurdspell](https://github.com/Kurdspell/Kurdspell) ⭐ 7 | 🐛 2 | 🌐 C# | 📅 2022-12-08 for Sorani spell checking
 * Apertium project for [Kurmanji](https://github.com/apertium/apertium-kmr) ⭐ 6 | 🐛 1 | 🌐 XML | 📅 2021-07-19 and [Sorani](https://github.com/apertium/apertium-ckb) ⭐ 2 | 🐛 0 | 🌐 XML | 📅 2021-07-20 morphological analysis
 * [Apertium rule-based Sorani spell-checker](https://github.com/rezKamal/ckb-spellchecker) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2021-05-20
+* [Kurdish Spell Checker](https://github.com/Kurdish-Tech/kurdish-spell-checker-extension) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 (Kurmanji), a Manifest V3 Chrome extension for real-time spell checking with a 380,000+ word dictionary
 * [Jedar stemmer](https://github.com/klpp/codes/tree/master/stemming) ⭐ 1 | 🐛 3 | 🌐 Java | 📅 2013-09-01
 * [A finite-state morphological analyzer for Central Kurdish](https://github.com/CKMorph) (Sorani)
 * [Alexina Framework](https://gforge.inria.fr/projects/alexina/): morphological analysis and POS-tagger for Sorani (`soralex`) and Kurmanji (`kurlex`)
@@ -171,11 +174,12 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 In addition to these, you can find further information in other repositories and pages as follows:
 
 * [Kurdish resources](https://github.com/DevelopersTree/KurdishResources) ⭐ 23 | 🐛 1 | 📅 2020-08-28
+* [Kurdish-Tech](https://github.com/Kurdish-Tech), an org building open-source Kurdish language tools, including a [Kurmancî Latin keyboard layout](https://github.com/Kurdish-Tech/kurdish-kurmanci-keyboard-layout) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 for Windows, macOS and Linux
 * [Developers Tree](https://devs.krd/)
 
 ## Research
 
-These references are provided based on the data collected in the paper entitled [KLPT – Kurdish Language Processing Toolkit](https://sinaahmadi.github.io/docs/articles/ahmadi2020klpt.pdf). Note that references are provided in the [`bibliography`](https://github.com/sinaahmadi/awesome-kurdish/blob/main/bibliography.bib) ⭐ 89 | 🐛 2 | 🌐 TeX | 📅 2025-07-14 file.
+These references are provided based on the data collected in the paper entitled [KLPT – Kurdish Language Processing Toolkit](https://sinaahmadi.github.io/docs/articles/ahmadi2020klpt.pdf). Note that references are provided in the [`bibliography`](https://github.com/sinaahmadi/awesome-kurdish/blob/main/bibliography.bib) ⭐ 89 | 🐛 1 | 🌐 TeX | 📅 2026-08-31 file.
 
 |            Reference            | Year     | Field                                 | dialects                                           |
 | :-----------------------------: | -------- | ------------------------------------- | -------------------------------------------------- |
@@ -288,4 +292,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
