@@ -32,7 +32,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 #### Corpora
 
 * [AsoSoft corpus](https://github.com/AsoSoft/AsoSoft-Text-Corpus) ⭐ 29 | 🐛 1 | 📅 2022-04-01 (Sorani)
-* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
+* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
 * [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) ⭐ 11 | 🐛 0 | 📅 2024-02-09 (Sorani)
 * [Kurdish folkloric lyrics corpus](https://github.com/KurdishBLARK/KurdishLyricsCorpus) ⭐ 7 | 🐛 4 | 🌐 HTML | 📅 2023-04-12 (Sorani)
 * [Zaza-Gorani corpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) ⭐ 6 | 🐛 0 | 📅 2022-12-13 (Zazaki and Gorani)
@@ -48,7 +48,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 * [FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores) ⚠️ Archived (Sorani)
 * [AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) ⭐ 23 | 🐛 1 | 📅 2022-06-24 (Sorani)
 * [Ahmadi et al's corpus](https://github.com/KurdishBLARK/InterdialectCorpus) ⭐ 18 | 🐛 0 | 📅 2020-10-06 containing English-Kurmanji-Sorani aligned texts
-* [CORDI](https://github.com/sinaahmadi/CORDI/tree/main/MT) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)
+* [CORDI](https://github.com/sinaahmadi/CORDI/tree/main/MT) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)
 * [PARME](https://github.com/DOLMA-NLP/PARME) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-08-28 (Hawrami, Zazaki, Southern Kurdish, Laki Kurdish)
 * [Tanzil](http://opus.nlpl.eu/Tanzil.php): one Qoran translation alignable with many other translations in other languages, including 11 in English (see [this project](https://github.com/sinaahmadi/KurdishMT) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-03-21)
 * A [parallel corpus](https://github.com/mihemmed/Kurdish-Machine-Translation-Project-KMTP-) ⭐ 7 | 🐛 1 | 📅 2021-06-04 of Sorani-English text
@@ -92,7 +92,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 
 ### Automatic speech recognition
 
-* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties)
+* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties)
 * [Kurdish spoken dialect recognition using x-vector speaker embedding](https://github.com/ArashAmani/Kurdish-Dialect-Recognition) ⭐ 9 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-10-08 (Northern, Central, Southern Kurdish, Hawrami &    Zazaki)
 * [DOLMA Speech corpora](https://github.com/DOLMA-NLP/asr) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-07-09 (Hawrami, Southern Kurdish, Laki Kurdish & Zazaki)
 * [KASET - Kurmanji and Sorani Kurdish Speech and Transcripts](https://catalog.ldc.upenn.edu/LDC2024S01)
@@ -127,7 +127,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 #### Fundamental processing
 
 * [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-01-05 for Sorani morphological analysig, spell checking, stemming and lemmatization
-* [Kurd-Spell](https://github.com/Hrazhan/kurd-spell) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-03-02
+* [Kurd-Spell](https://github.com/Hrazhan/kurd-spell) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2024-03-02
 * [Wergor for transliteration](https://github.com/sinaahmadi/wergor) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-05-03 (Sorani and Kurmanji)
 * [Kurdish Tokenization](https://github.com/sinaahmadi/KurdishTokenization) ⭐ 10 | 🐛 0 | 🌐 Lex | 📅 2024-06-22
 * [Gende Stemmer](https://github.com/mhmd-azeez/GendeStemmer) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2021-10-12 (Sorani)
@@ -165,7 +165,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 #### Language identification
 
 * [Language identifier](https://github.com/DanielJDufour/language-detector) ⭐ 37 | 🐛 5 | 🌐 Python | 📅 2020-06-07 (Sorani and Kurmanji)
-* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
+* [CORDI](https://github.com/sinaahmadi/CORDI) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad, Erbil, Sardasht and Kalar)
 * [Language identification of Kurdish and Zaza-Gorani languages](https://github.com/sinaahmadi/KurdishLID) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2023-03-25
 * [Perso-Arabic](https://github.com/sinaahmadi/PersoArabicLID) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-07-11 and [KurdishLID](https://github.com/sinaahmadi/KurdishLID) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2023-03-25 projects covering many languages including (Kurmanji, Sorani, Southern Kurdish, Gorani and Zazaki)
 
@@ -292,4 +292,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

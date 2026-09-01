@@ -72,7 +72,7 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
-                    "homepage": "https://aclanthology.org/2024.lrec-main.877/",
+                    "homepage": "https://sinaahmadi.github.io/teshi/CORDI.html",
                     "id": 424207016,
                     "language": "Python",
                     "license": null,
@@ -80,7 +80,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -310,7 +310,7 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
-                    "homepage": "https://aclanthology.org/2024.lrec-main.877/",
+                    "homepage": "https://sinaahmadi.github.io/teshi/CORDI.html",
                     "id": 424207016,
                     "language": "Python",
                     "license": null,
@@ -318,7 +318,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -734,7 +734,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
-                "homepage": "https://aclanthology.org/2024.lrec-main.877/",
+                "homepage": "https://sinaahmadi.github.io/teshi/CORDI.html",
                 "id": 424207016,
                 "language": "Python",
                 "license": null,
@@ -742,7 +742,7 @@
                 "open_issues": 0,
                 "owner": "sinaahmadi",
                 "repo": "CORDI",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "automatic-speech-recognition",
                   "dialect-identification",
@@ -1151,7 +1151,7 @@
                     "open_issues": 0,
                     "owner": "RazhanHameed",
                     "repo": "kurd-spell",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
@@ -1650,7 +1650,7 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
-                    "homepage": "https://aclanthology.org/2024.lrec-main.877/",
+                    "homepage": "https://sinaahmadi.github.io/teshi/CORDI.html",
                     "id": 424207016,
                     "language": "Python",
                     "license": null,
@@ -1658,7 +1658,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:48:40.630Z",
+    "last_updated": "2026-09-01T17:32:37.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
