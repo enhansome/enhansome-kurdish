@@ -598,6 +598,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Datasets for text to Kurdish Sign Language",
+                  "description": "(Sorani)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Datasets for text to Kurdish Sign Language (KuSL) translation",
+                    "homepage": null,
+                    "id": 249647148,
+                    "language": null,
+                    "license": "NOASSERTION",
+                    "last_commit": "2020-04-13T13:07:32Z",
+                    "open_issues": 0,
+                    "owner": "KurdishBLARK",
+                    "repo": "KurdishSignLanguage",
+                    "stars": 5,
+                    "topics": [
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "kurdish-sign-language",
+                      "language-resource"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "A Twitter dataset",
                   "description": "(Sorani and Kurmanji)",
                   "children": [],
@@ -618,32 +644,6 @@
                       "kurdish",
                       "kurdish-language-library",
                       "twitter"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:22:34.172Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Datasets for text to Kurdish Sign Language",
-                  "description": "(Sorani)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Datasets for text to Kurdish Sign Language (KuSL) translation",
-                    "homepage": null,
-                    "id": 249647148,
-                    "language": null,
-                    "license": "NOASSERTION",
-                    "last_commit": "2020-04-13T13:07:32Z",
-                    "open_issues": 0,
-                    "owner": "KurdishBLARK",
-                    "repo": "KurdishSignLanguage",
-                    "stars": 4,
-                    "topics": [
-                      "kurdish",
-                      "kurdish-language-processing",
-                      "kurdish-sign-language",
-                      "language-resource"
                     ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:43:00.641Z",
+    "last_updated": "2026-09-09T17:29:54.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",

@@ -77,8 +77,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 * [profanity language](https://github.com/MohammedSardar/Bive) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-06-03 (Sorani)
 * [A dataset for speech recognition](https://github.com/KurdishBLARK/BD-4SK-ASR) ⭐ 9 | 🐛 0 | 🌐 Perl | 📅 2020-03-28 (Sorani)
 * [Universal dependency](https://github.com/UniversalDependencies/UD_Kurmanji-MG) ⭐ 8 | 🐛 0 | 📅 2026-05-06 (Kurmanji)
+* [Datasets for text to Kurdish Sign Language](https://github.com/KurdishBLARK/KurdishSignLanguage) ⭐ 5 | 🐛 0 | 📅 2020-04-13 (Sorani)
 * [A Twitter dataset](https://github.com/ftkurt/kurdish-twitter-data) ⭐ 4 | 🐛 0 | 📅 2020-06-07 (Sorani and Kurmanji)
-* [Datasets for text to Kurdish Sign Language](https://github.com/KurdishBLARK/KurdishSignLanguage) ⭐ 4 | 🐛 0 | 📅 2020-04-13 (Sorani)
 * [Dataset of Kurdish poems with meter and form tags](https://github.com/AsoSoft/Vejinbooks-Poem-Dataset) ⭐ 3 | 🐛 0 | 📅 2020-12-29
 * [Sorani](https://github.com/unimorph/ckb) ⭐ 3 | 🐛 0 | 📅 2023-07-16 and [Kurmanji](https://github.com/unimorph/kmr) ⭐ 2 | 🐛 1 | 📅 2017-08-03 morphological datasets in UniMorph
 * [FakeKurdNews](https://github.com/rania-azad/FakeKurdNews---Fake-Kurdish-News-Dataset) ⭐ 1 | 🐛 0 | 📅 2021-05-26, an annotated dataset for Sorani Kurdish fake news detection
@@ -292,4 +292,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
