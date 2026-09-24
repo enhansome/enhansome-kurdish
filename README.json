@@ -1466,7 +1466,7 @@
                     "open_issues": 16,
                     "owner": "facebookresearch",
                     "repo": "GENRE",
-                    "stars": 801,
+                    "stars": 800,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:12:06.539Z",
+    "last_updated": "2026-09-24T18:07:11.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
