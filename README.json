@@ -1591,7 +1591,7 @@
                     "open_issues": 0,
                     "owner": "Kurdinus",
                     "repo": "kurdinusLibrary",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": [
                       "kurdish-language-processing",
                       "transliterate-kurdish",
@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:12:22.865Z",
+    "last_updated": "2026-09-26T17:35:31.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",

@@ -160,7 +160,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 * [Kurdish Language Processing Toolkit](https://github.com/sinaahmadi/klpt) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2025-08-13: a natural language processing toolkit in Python
 * [Kurdish Language Library](https://github.com/dolanskurd/kurdish) ⚠️ Archived: converting characters and digits in Persian, English and Arabic to Kurdish and vice versa
 * [AsoSoft's Library for Kurdish](https://github.com/AsoSoft/AsoSoft-Library) ⭐ 26 | 🐛 0 | 🌐 C# | 📅 2023-09-16: normalizer, numeral converter, grapheme-to-phoneme convertor in C#
-* [Kurdînûs](https://github.com/aso-mehmudi/kurdinus) ⭐ 23 | 🐛 0 | 🌐 HTML | 📅 2025-09-06: pure JavaScript tools for transliteration, text conversion and normalization
+* [Kurdînûs](https://github.com/aso-mehmudi/kurdinus) ⭐ 24 | 🐛 0 | 🌐 HTML | 📅 2025-09-06: pure JavaScript tools for transliteration, text conversion and normalization
 
 #### Language identification
 
@@ -292,4 +292,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
