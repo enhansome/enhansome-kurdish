@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:01:42.100Z",
+    "last_updated": "2026-09-28T20:21:26.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
@@ -1841,7 +1841,7 @@
       "open_issues": 1,
       "owner": "sinaahmadi",
       "repo": "awesome-kurdish",
-      "stars": 90,
+      "stars": 92,
       "topics": [
         "awesome",
         "awesome-list",
