@@ -80,7 +80,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -318,7 +318,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -742,7 +742,7 @@
                 "open_issues": 0,
                 "owner": "sinaahmadi",
                 "repo": "CORDI",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "automatic-speech-recognition",
                   "dialect-identification",
@@ -1658,7 +1658,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:21:26.241Z",
+    "last_updated": "2026-09-29T19:05:26.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
