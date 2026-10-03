@@ -651,7 +651,7 @@
                 {
                   "node_type": "item",
                   "title": "Dataset of Kurdish poems with meter and form tags",
-                  "description": null,
+                  "description": "AsoSoft/Vejinbooks-Poem-Dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -938,7 +938,7 @@
                 {
                   "node_type": "item",
                   "title": "Wergor transliteration datasets",
-                  "description": null,
+                  "description": "sinaahmadi/wergor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -997,7 +997,7 @@
                 {
                   "node_type": "item",
                   "title": "Central-Kurdish-Spelling-dataset",
-                  "description": null,
+                  "description": "AsoSoft/Central-Kurdish-Spelling-dataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1053,7 +1053,7 @@
                 {
                   "node_type": "item",
                   "title": "Script normalization",
-                  "description": null,
+                  "description": "sinaahmadi/ScriptNormalization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1138,7 +1138,7 @@
                 {
                   "node_type": "item",
                   "title": "Kurd-Spell",
-                  "description": null,
+                  "description": "RazhanHameed/kurd-spell",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1186,7 +1186,7 @@
                 {
                   "node_type": "item",
                   "title": "Kurdish Tokenization",
-                  "description": null,
+                  "description": "sinaahmadi/KurdishTokenization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1312,7 +1312,7 @@
                 {
                   "node_type": "item",
                   "title": "Apertium rule-based Sorani spell-checker",
-                  "description": null,
+                  "description": "rezKamal/ckb-spellchecker",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1368,7 +1368,7 @@
                 {
                   "node_type": "item",
                   "title": "Jedar stemmer",
-                  "description": null,
+                  "description": "klpp/codes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1678,7 +1678,7 @@
                 {
                   "node_type": "item",
                   "title": "Language identification of Kurdish and Zaza-Gorani languages",
-                  "description": null,
+                  "description": "sinaahmadi/KurdishLID",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1769,7 +1769,7 @@
             {
               "node_type": "item",
               "title": "Kurdish resources",
-              "description": null,
+              "description": "devs-krd/KurdishResources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:56:14.706Z",
+    "last_updated": "2026-10-03T04:52:14.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
