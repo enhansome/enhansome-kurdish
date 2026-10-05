@@ -587,7 +587,7 @@
                     "id": 70976563,
                     "language": null,
                     "license": "NOASSERTION",
-                    "last_commit": "2026-05-06T19:11:06Z",
+                    "last_commit": "2026-10-05T12:18:37Z",
                     "open_issues": 0,
                     "owner": "UniversalDependencies",
                     "repo": "UD_Northern_Kurdish-Kurmanji",
@@ -1829,7 +1829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:57:21.160Z",
+    "last_updated": "2026-10-05T21:26:09.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
