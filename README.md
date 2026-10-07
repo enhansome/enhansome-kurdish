@@ -105,6 +105,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 * Tokenization:
   * [KurdishTokenization](https://github.com/sinaahmadi/KurdishTokenization) ⭐ 10 | 🐛 0 | 🌐 Lex | 📅 2024-06-22 (Sorani, Kurmanji)
   * [A sentence-segmented dataset](https://github.com/KurdishBLARK/KTC-Segmented) ⭐ 2 | 🐛 0 | 📅 2020-05-01 (Sorani)
+  * [Kurdish NLP Metrics](https://github.com/Kurdish-Tech/kurdish-nlp-metrics) ⭐ 1 | 🐛 0 | 📅 2026-10-07 (Kurmanji, Sorani, Zazaki), open, reproducible intrinsic metrics (tokenizer fertility, grammar-eval coverage) across Kurdish NLP tools
 * Transliteration
   * [Wergor transliteration datasets](https://github.com/sinaahmadi/wergor) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-05-03
   * [Evaluation datasets for Kurdish Grapheme-to-Phoneme Conversion systems](https://github.com/AsoSoft/Kurdish-G2P-dataset) ⭐ 4 | 🐛 0 | 📅 2020-12-29 (Sorani)
@@ -292,4 +293,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
