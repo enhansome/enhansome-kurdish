@@ -1814,7 +1814,7 @@
                 "open_issues": 1,
                 "owner": "devs-krd",
                 "repo": "KurdishResources",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "bot",
                   "kurdish",
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:12:21.964Z",
+    "last_updated": "2026-10-11T18:35:17.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",

@@ -174,7 +174,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 
 In addition to these, you can find further information in other repositories and pages as follows:
 
-* [Kurdish resources](https://github.com/DevelopersTree/KurdishResources) ⭐ 23 | 🐛 1 | 📅 2020-08-28
+* [Kurdish resources](https://github.com/DevelopersTree/KurdishResources) ⭐ 24 | 🐛 1 | 📅 2020-08-28
 * [Kurdish-Tech](https://github.com/Kurdish-Tech), an org building open-source Kurdish language tools, including a [Kurmancî Latin keyboard layout](https://github.com/Kurdish-Tech/kurdish-kurmanci-keyboard-layout) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 for Windows, macOS and Linux
 * [Developers Tree](https://devs.krd/)
 
@@ -293,4 +293,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
