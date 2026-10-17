@@ -264,7 +264,7 @@
                     "open_issues": 1,
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": [
                       "corpus",
                       "kurdish",
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:47:08.844Z",
+    "last_updated": "2026-10-17T16:48:29.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",

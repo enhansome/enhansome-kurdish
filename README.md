@@ -46,7 +46,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 #### Parallel corpora
 
 * [FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores) ⚠️ Archived (Sorani)
-* [AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) ⭐ 23 | 🐛 1 | 📅 2022-06-24 (Sorani)
+* [AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) ⭐ 24 | 🐛 1 | 📅 2022-06-24 (Sorani)
 * [Ahmadi et al's corpus](https://github.com/KurdishBLARK/InterdialectCorpus) ⭐ 18 | 🐛 0 | 📅 2020-10-06 containing English-Kurmanji-Sorani aligned texts
 * [CORDI](https://github.com/sinaahmadi/CORDI/tree/main/MT) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)
 * [PARME](https://github.com/DOLMA-NLP/PARME) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-08-28 (Hawrami, Zazaki, Southern Kurdish, Laki Kurdish)
@@ -293,4 +293,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
