@@ -80,7 +80,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -276,6 +276,39 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "CORDI",
+                  "description": "(Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
+                    "homepage": "https://sinaahmadi.github.io/teshi/CORDI.html",
+                    "id": 424207016,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-11-29T23:10:32Z",
+                    "open_issues": 0,
+                    "owner": "sinaahmadi",
+                    "repo": "CORDI",
+                    "stars": 18,
+                    "topics": [
+                      "automatic-speech-recognition",
+                      "dialect-identification",
+                      "erbil",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "language-identification",
+                      "machine-translation",
+                      "mahabad",
+                      "sanandaj",
+                      "sorani",
+                      "sulaymaniyah"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Ahmadi et al's corpus",
                   "description": "containing English-Kurmanji-Sorani aligned texts",
                   "children": [],
@@ -298,39 +331,6 @@
                       "machine-translation",
                       "natural-language-processing",
                       "parallel-corpus"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:22:34.172Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "CORDI",
-                  "description": "(Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Language and Speech Technology for Central Kurdish Varieties (LREC-COLING 2024)",
-                    "homepage": "https://sinaahmadi.github.io/teshi/CORDI.html",
-                    "id": 424207016,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-11-29T23:10:32Z",
-                    "open_issues": 0,
-                    "owner": "sinaahmadi",
-                    "repo": "CORDI",
-                    "stars": 17,
-                    "topics": [
-                      "automatic-speech-recognition",
-                      "dialect-identification",
-                      "erbil",
-                      "kurdish",
-                      "kurdish-language-processing",
-                      "language-identification",
-                      "machine-translation",
-                      "mahabad",
-                      "sanandaj",
-                      "sorani",
-                      "sulaymaniyah"
                     ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
@@ -742,7 +742,7 @@
                 "open_issues": 0,
                 "owner": "sinaahmadi",
                 "repo": "CORDI",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "automatic-speech-recognition",
                   "dialect-identification",
@@ -1690,7 +1690,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "CORDI",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "automatic-speech-recognition",
                       "dialect-identification",
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:37:00.267Z",
+    "last_updated": "2026-10-20T18:16:45.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
