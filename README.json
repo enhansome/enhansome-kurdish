@@ -475,7 +475,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "computational-linguistics",
                       "hunspell",
@@ -849,7 +849,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "computational-linguistics",
                       "hunspell",
@@ -1150,7 +1150,7 @@
                     "open_issues": 0,
                     "owner": "sinaahmadi",
                     "repo": "KurdishHunspell",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "computational-linguistics",
                       "hunspell",
@@ -1183,7 +1183,7 @@
                     "open_issues": 0,
                     "owner": "RazhanHameed",
                     "repo": "kurd-spell",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:09:53.546Z",
+    "last_updated": "2026-10-25T17:22:31.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
@@ -1873,7 +1873,7 @@
       "open_issues": 1,
       "owner": "sinaahmadi",
       "repo": "awesome-kurdish",
-      "stars": 92,
+      "stars": 95,
       "topics": [
         "awesome",
         "awesome-list",
