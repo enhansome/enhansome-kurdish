@@ -136,7 +136,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 * [Kurdspell](https://github.com/Kurdspell/Kurdspell) ⭐ 7 | 🐛 2 | 🌐 C# | 📅 2022-12-08 for Sorani spell checking
 * Apertium project for [Kurmanji](https://github.com/apertium/apertium-kmr) ⭐ 6 | 🐛 1 | 🌐 XML | 📅 2021-07-19 and [Sorani](https://github.com/apertium/apertium-ckb) ⭐ 2 | 🐛 0 | 🌐 XML | 📅 2021-07-20 morphological analysis
 * [Apertium rule-based Sorani spell-checker](https://github.com/rezKamal/ckb-spellchecker) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2021-05-20
-* [Kurdish Spell Checker](https://github.com/Kurdish-Tech/kurdish-spell-checker-extension) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 (Kurmanji), a Manifest V3 Chrome extension for real-time spell checking with a 380,000+ word dictionary
+* [Kurdish Spell Checker](https://github.com/Kurdish-Tech/kurdish-spell-checker-extension) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 (Kurmanji), a Manifest V3 Chrome extension for real-time spell checking with a 380,000+ word dictionary
 * [Jedar stemmer](https://github.com/klpp/codes/tree/master/stemming) ⭐ 1 | 🐛 3 | 🌐 Java | 📅 2013-09-01
 * [A finite-state morphological analyzer for Central Kurdish](https://github.com/CKMorph) (Sorani)
 * [Alexina Framework](https://gforge.inria.fr/projects/alexina/): morphological analysis and POS-tagger for Sorani (`soralex`) and Kurmanji (`kurlex`)
@@ -293,4 +293,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

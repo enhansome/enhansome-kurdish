@@ -1373,8 +1373,8 @@
                     "homepage": null,
                     "id": 1277713858,
                     "language": "JavaScript",
-                    "license": null,
-                    "last_commit": "2026-08-15T06:10:28Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-30T09:59:58Z",
                     "open_issues": 0,
                     "owner": "Kurdish-Tech",
                     "repo": "kurdish-spell-checker-extension",
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:23:27.911Z",
+    "last_updated": "2026-10-30T18:57:21.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
