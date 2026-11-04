@@ -51,7 +51,7 @@
                     "open_issues": 1,
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-Text-Corpus",
-                    "stars": 30,
+                    "stars": 29,
                     "topics": [
                       "central-kurdish",
                       "corpus",
@@ -113,7 +113,7 @@
                     "open_issues": 0,
                     "owner": "KurdishBLARK",
                     "repo": "KTC",
-                    "stars": 12,
+                    "stars": 11,
                     "topics": [
                       "corpus",
                       "corpus-linguistics",
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:23:26.437Z",
+    "last_updated": "2026-11-04T20:38:59.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
