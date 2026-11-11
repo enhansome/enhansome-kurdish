@@ -114,7 +114,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 * Sentiment Analyis
   * [Sentiment Analysis](https://github.com/Hrazhan/sentiment) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-27 (Sorani)
 * Unconventional writing normalization
-  * [Script normalization](https://github.com/sinaahmadi/ScriptNormalization) ⭐ 3 | 🐛 0 | 🌐 PLSQL | 📅 2023-07-09
+  * [Script normalization](https://github.com/sinaahmadi/ScriptNormalization) ⭐ 4 | 🐛 0 | 🌐 PLSQL | 📅 2023-07-09
 
 #### Other resources
 
@@ -293,4 +293,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
