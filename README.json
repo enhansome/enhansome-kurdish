@@ -1526,7 +1526,7 @@
                     "open_issues": 4,
                     "owner": "sinaahmadi",
                     "repo": "klpt",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": [
                       "kurdish",
                       "kurdish-language-processing",
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:01:41.227Z",
+    "last_updated": "2026-11-12T21:16:49.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
