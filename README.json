@@ -276,6 +276,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Ahmadi et al's corpus",
+                  "description": "containing English-Kurmanji-Sorani aligned texts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A parallel corpus of Sorani, Kurmanji and English",
+                    "homepage": "https://kurdishblark.github.io/",
+                    "id": 286140690,
+                    "language": null,
+                    "license": "NOASSERTION",
+                    "last_commit": "2020-10-06T01:17:58Z",
+                    "open_issues": 0,
+                    "owner": "KurdishBLARK",
+                    "repo": "InterdialectCorpus",
+                    "stars": 19,
+                    "topics": [
+                      "corpus",
+                      "kurdish",
+                      "kurdish-language-processing",
+                      "machine-translation",
+                      "natural-language-processing",
+                      "parallel-corpus"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:22:34.172Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "CORDI",
                   "description": "(Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)",
                   "children": [],
@@ -303,34 +331,6 @@
                       "sanandaj",
                       "sorani",
                       "sulaymaniyah"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:22:34.172Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Ahmadi et al's corpus",
-                  "description": "containing English-Kurmanji-Sorani aligned texts",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A parallel corpus of Sorani, Kurmanji and English",
-                    "homepage": "https://kurdishblark.github.io/",
-                    "id": 286140690,
-                    "language": null,
-                    "license": "NOASSERTION",
-                    "last_commit": "2020-10-06T01:17:58Z",
-                    "open_issues": 0,
-                    "owner": "KurdishBLARK",
-                    "repo": "InterdialectCorpus",
-                    "stars": 18,
-                    "topics": [
-                      "corpus",
-                      "kurdish",
-                      "kurdish-language-processing",
-                      "machine-translation",
-                      "natural-language-processing",
-                      "parallel-corpus"
                     ]
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:31:44.916Z",
+    "last_updated": "2026-11-16T23:10:36.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
@@ -1873,7 +1873,7 @@
       "open_issues": 1,
       "owner": "sinaahmadi",
       "repo": "awesome-kurdish",
-      "stars": 95,
+      "stars": 96,
       "topics": [
         "awesome",
         "awesome-list",

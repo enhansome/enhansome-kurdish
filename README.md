@@ -47,8 +47,8 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 
 * [FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores) ⚠️ Archived (Sorani)
 * [AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) ⭐ 24 | 🐛 1 | 📅 2022-06-24 (Sorani)
+* [Ahmadi et al's corpus](https://github.com/KurdishBLARK/InterdialectCorpus) ⭐ 19 | 🐛 0 | 📅 2020-10-06 containing English-Kurmanji-Sorani aligned texts
 * [CORDI](https://github.com/sinaahmadi/CORDI/tree/main/MT) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-11-29 (Parallel corpus of Central Kurdish varieties of Sulaymaniyah, Sanandaj, Mahabad and Erbil along with Standard Central Kurdish and English)
-* [Ahmadi et al's corpus](https://github.com/KurdishBLARK/InterdialectCorpus) ⭐ 18 | 🐛 0 | 📅 2020-10-06 containing English-Kurmanji-Sorani aligned texts
 * [PARME](https://github.com/DOLMA-NLP/PARME) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-08-28 (Hawrami, Zazaki, Southern Kurdish, Laki Kurdish)
 * [Tanzil](http://opus.nlpl.eu/Tanzil.php): one Qoran translation alignable with many other translations in other languages, including 11 in English (see [this project](https://github.com/sinaahmadi/KurdishMT) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-03-21)
 * A [parallel corpus](https://github.com/mihemmed/Kurdish-Machine-Translation-Project-KMTP-) ⭐ 7 | 🐛 1 | 📅 2021-06-04 of Sorani-English text
@@ -293,4 +293,4 @@ If you find the provided data useful for your project, feel free to use it and p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
