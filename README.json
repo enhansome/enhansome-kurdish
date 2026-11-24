@@ -1594,7 +1594,7 @@
                     "open_issues": 0,
                     "owner": "AsoSoft",
                     "repo": "AsoSoft-Library",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": [
                       "central-kurdish",
                       "kurdish",
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:33:31.761Z",
+    "last_updated": "2026-11-24T01:27:44.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
