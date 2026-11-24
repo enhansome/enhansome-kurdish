@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "RazhanHameed",
                     "repo": "kurdish-llama",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:22:34.172Z"
@@ -1861,7 +1861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:27:44.178Z",
+    "last_updated": "2026-11-24T23:21:38.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources and tools for Kurdish language and speech technologies",
@@ -1873,7 +1873,7 @@
       "open_issues": 1,
       "owner": "sinaahmadi",
       "repo": "awesome-kurdish",
-      "stars": 96,
+      "stars": 97,
       "topics": [
         "awesome",
         "awesome-list",

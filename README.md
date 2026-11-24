@@ -27,7 +27,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 
 #### Language Models
 
-* [Kurdish Llama](https://github.com/Hrazhan/kurdish-llama) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-24 (Fine-tuned Llama model for Sorani)
+* [Kurdish Llama](https://github.com/Hrazhan/kurdish-llama) ⭐ 19 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-24 (Fine-tuned Llama model for Sorani)
 
 #### Corpora
 
